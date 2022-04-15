@@ -69,7 +69,7 @@ header{
     }
 
     /* formato parrafos */
-    p{
+    p, .resume-list li, #movieList{
         font-size: 0.85rem;
     }
 
@@ -104,12 +104,27 @@ header{
 
 
     
-    .page-character .sintoma{
+    .page-character .cuerpo-character{
         background-color: var(--white-background);
-        padding: 30px 20px 5px 20px;
+        padding: 5px 10px 10px 10px;
         border-radius: 10px;
     }
 
+    .page-character main .container{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .page-character main .container .titulo{
+        grid-column: 1/2;
+        grid-row: 1;
+    }
+
+    .page-character main .container .resumen{
+        grid-column: 1/2;
+        grid-row: 2;
+  }
+  
     /* Página movies dispositivos pequeños*/
     .page-movies main .container{
         grid-template-columns: 1fr 1fr;
@@ -124,6 +139,13 @@ header{
     .page-character .cuerpo-character{
         width: 100%;
     }
+
+    .page-character .resumen h2{
+        position: absolute;
+        top: 0px;
+        left: -5000px;   
+    }
+
 
 }
 
@@ -238,10 +260,6 @@ header{
         grid-row: 2/4;
   }
   
-    .page-character main .bio{
-        font-weight: 600;
-    }
-
     .page-character .cuerpo-character{
         padding: 20px 25px 20px 25px;
         background-color: var(--white-background);
@@ -348,7 +366,12 @@ nav ul{
 
 /* Formato general header */
 header{
-    background-color: var(--contrast-color);
+    background-color: var(--contrast-color)!important;
+}
+
+.hamburger-menu{
+    background-color: var(--contrast-color)!important;
+
 }
 
 header .menu-links li a{
@@ -623,3 +646,7 @@ fieldset ::placeholder{
     min-height: 0;
     border-radius: 10px;
 }    
+
+.page-character main .bio{
+    font-weight: 600;
+}
