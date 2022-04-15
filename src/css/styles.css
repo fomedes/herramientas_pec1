@@ -409,7 +409,7 @@ main .container{
 }
 
 main .titulo{
-    padding-top: 20;
+    padding-top: 20px;
     padding-bottom: 0;
 }
 
@@ -557,7 +557,7 @@ fieldset ::placeholder{
 
 .page-home h2{
     text-align: center;
-    padding: 20;
+    padding: 20px;
 }
 
 .page-character h3{
