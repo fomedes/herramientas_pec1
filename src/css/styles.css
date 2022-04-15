@@ -1,0 +1,625 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+:root {
+    --text-primary: rgb(0, 0, 0);
+    --text-secondary: rgb(255, 255, 255);
+    --contrast-color: rgb(237, 29, 36);
+    --main-background: rgb(244, 244, 244);
+    --dark-background: rgb(0, 0, 0);
+    --white-background: rgb(255, 255, 255);
+    --subscribe-background: rgb(242 232 228);
+}
+
+/*Margins y paddings removed*/
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+html{
+    font-family: 'Comic Sans', sans-serif;
+}
+
+.cabecera {
+    font-family: 'Bangers', sans-serif;
+    font-size: 12vw ;
+    letter-spacing: 5px;
+    font-weight: 800;
+    color: white;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Bangers', sans-serif;
+    font-size: 8vw;
+    letter-spacing: 3px;
+}
+
+h2{
+    text-align: left;
+    font-family: 'Bangers', sans-serif;
+    font-size: 5vw;
+    letter-spacing: 2px;
+    padding: 10px 0;
+}
+
+header{
+    text-transform: uppercase;
+}
+
+.page-character .cuerpo-character p:not(:last-child){
+    margin-bottom: 20px;
+}
+
+
+/* dispositivos pequeños y móviles */
+@media (max-width: 767px) { 
+    .container {
+        max-width: 730px;
+    }
+
+    header,
+    footer{
+        text-align: center;
+    }
+
+    /* formato parrafos */
+    p{
+        font-size: 0.85rem;
+    }
+
+    /* Formato general*/
+    main section{
+        padding: 20px 20px;
+        line-height: 1.5;
+    }
+    
+    .page-home main .intro-picture .container {
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+
+    .page-home main .intro-picture .title {
+        text-align: left;
+        vertical-align: middle;
+        font-weight: 400;
+        font-size: 2rem;
+        padding-right: 25px;
+        padding-left: 10px;
+    }
+
+    .page-home .characters{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .page-home .movies{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+
+    
+    .page-character .sintoma{
+        background-color: var(--white-background);
+        padding: 30px 20px 5px 20px;
+        border-radius: 10px;
+    }
+
+    /* Página movies dispositivos pequeños*/
+    .page-movies main .container{
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .page-movies main .container .titulo{
+        grid-column: 1/3;
+        grid-row: 1;
+    }
+
+    /* Bio resumen para moviles */
+    .page-character .cuerpo-character{
+        width: 100%;
+    }
+
+}
+
+/* dispositivos grandes */
+@media (min-width: 768px) {
+    .container {
+        max-width: 80%;
+      }
+    
+    /* Formato navegador */
+    nav ul{
+        display: inline-flex;
+    }
+
+    nav ul li{
+        padding-right: 20px;
+    }
+
+    /* Formato pie de página */
+    footer ul{
+        display: inline-flex;
+    }
+
+    footer ul li{
+        padding-right: 10px;
+    }
+
+    footer ul.legal-links li :before{
+        content: "\0B7";
+        padding-right: 10px;
+        font-weight: 800;
+    }
+
+    footer ul.legal-links li.first-link :before{
+        content: "";
+        padding-right: 0;
+    }
+
+    .container{
+        margin: 0 auto;
+    }
+
+    /* Formato general */
+    main section{
+        padding: 20px 10px;
+        line-height: 1.5;
+    }
+    
+
+
+    /* Página principal para dispositivos grandes */
+    .page-home main .intro-picture .container {
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+
+    .page-home main .intro-picture .title {
+        text-align: left;
+        font-weight: 400;
+        font-size: 3rem;
+    }
+
+    .page-home .subscribe .centered-form{
+        margin: 0px 20%;
+        max-width: 400px;
+        margin: auto;
+    }
+    
+    .page-home .characters{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .page-home .movies{
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+
+/* Página characters para dispositivos grandes */
+    .page-character main .container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .page-character main .container .titulo{
+        grid-column: 1/4;
+        grid-row: 1;
+    }
+
+    .page-character main .container .descripcion{
+        grid-column: 1/3;
+        grid-row: 2;
+    }
+
+    .page-character main .container .origen{
+        grid-column: 1/3;
+        grid-row: 3;
+    }
+
+    .page-character main .container .poderes{
+        grid-column: 1/4;
+        grid-row: 4;
+    }
+
+    .page-character main .container .peliculas{
+        grid-column: 1/4;
+        grid-row: 5;
+    }
+
+    .page-character main .container .resumen{
+        grid-column: 3/4;
+        grid-row: 2/4;
+  }
+  
+    .page-character main .bio{
+        font-weight: 600;
+    }
+
+    .page-character .cuerpo-character{
+        padding: 20px 25px 20px 25px;
+        background-color: var(--white-background);
+        border-radius: 10px;
+    }
+
+    .page-character .cuerpo-character p{
+        line-height: 2;
+    }
+
+
+
+
+/* Página movies dispositivos grandes*/
+    .page-movies main .container{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .page-movies main .container .titulo{
+        grid-column: 1/4;
+        grid-row: 1;
+    }
+
+    .page-movies .film-title{
+        font-size: 40px;
+    }
+    
+/* Dispositivos mas grandes */
+@media (min-width: 900px) {
+    .cabecera {
+    font-size: 96px;
+    }
+
+    h1{
+        font-size: 72px;
+    }
+
+    h2{
+        font-size: 36px;
+    }
+}
+
+}
+/* /////////////// fin de reglas mediante @media //////////// */
+
+
+/* Reglas generales para todo el documento */
+/*Formato del footer*/
+footer{
+    background: var(--dark-background);
+    color: var(--text-secondary);
+    padding: 30px 50px 0px 50px;
+}
+
+footer a{
+    color: var(--text-secondary);
+}
+
+footer .legal-links a:hover{
+    color: var(--contrast-color);
+}
+
+footer .social-links a:hover{
+    opacity: 0.7;
+}
+
+footer section{
+    padding-bottom: 30px;
+}
+
+footer .social-links{
+    display: inline-flex;
+}
+
+ol {
+    display: list-item;
+    padding: 20px;
+}
+
+ul li{
+    list-style-type: none;;
+}
+
+a {
+    color: var(--text-primary);
+    text-decoration: none;
+    background-color: transparent; 
+  }
+  
+a:hover {
+    color: rgba(0,0,0,0.5);
+}
+
+nav{
+    padding-top: 20px;
+}
+
+nav ul{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 800;
+}
+
+
+/* Formato general header */
+header{
+    background-color: var(--contrast-color);
+}
+
+header .menu-links li a{
+    font-size: 1.2rem;
+    color: white;
+}
+
+header .menu-links li a:hover{
+    color: rgba(0,0,0);
+}  
+
+
+
+/*Formato general del main */
+main{
+    background-color: var(--main-background);
+}
+
+main .container{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    min-height: 70vh;
+}
+
+main .titulo{
+    padding-top: 20;
+    padding-bottom: 0;
+}
+
+
+q{
+    quotes: "\00AB" '\00BB';
+}
+
+
+/* formato para links */
+p a{
+    color: var(--contrast-color);
+    font-weight: 600;
+}
+
+p a:hover{
+    color: var(--text-primary);
+}
+
+p a.more{
+    border-bottom: 1px dotted;
+    padding-bottom: 3px;
+} 
+
+.page-home main .container{
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.page-home .img-intro {
+  max-height: 20vw;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  
+}
+.page-home main .intro-picture {
+  height: 20vw;
+  background-color: black;
+}
+
+
+/*Formato mainpage personajes*/
+.page-home main .container .site-description{
+    font-size: 1.2rem;
+}
+
+.page-home main .container .site-description p, .page-about main .container .site-description p{
+    padding-bottom: 20px;
+}
+
+.page-home .characters{
+    display: grid;
+    gap: 20px;
+}
+
+.page-home .movies{
+    display: grid;
+    gap: 20px;
+}
+
+
+.character > img, .movie > img{
+    max-width: 100%; 
+}
+
+.character .more{
+    font-size: 0.8rem;
+}
+
+
+/* formatos de textos en la sección suscríbete */
+
+.page-home .subscribe{
+    background-color: var(--subscribe-background);
+    padding: 10px 0px;
+}
+
+.page-home .subscribe p,
+.conditions{
+    font-size: 0.6rem;
+    margin-bottom: 15px;
+}
+
+.page-home .subscribe h2{
+    line-height: 0.95;
+}
+
+.page-home .subscribe button{
+    color: var(--text-secondary);
+    background-color: var(--contrast-color);
+    padding: 15px 20px;
+    text-transform: uppercase;
+    border: none;
+    max-width: 200px;
+}
+
+.page-home .subscribe button:hover{
+    background-color: var(--dark-background);
+    color: var(--text-secondary);
+}
+
+.subscribe p a{
+    color: var(--contrast-color);
+}
+
+.subscribe p a:hover{
+    color: var(--dark-background);
+}
+
+/* Formato de campos seccion suscríbete*/
+
+.subscribe form{
+    text-align: center;
+}
+
+.subscribe form fieldset{
+    border: none;
+    margin: auto;
+}
+
+.subscribe form fieldset legend{
+    display: none;
+}
+
+.subscribe form fieldset .hidden-label{
+    display: none;
+}
+
+.subscribe .form-control{
+    display: inline-block;
+    width: 100%;
+    padding: 15px 10px;
+    margin-bottom: 10px;
+  }
+
+fieldset ::placeholder{
+    font-size: 1rem;
+}
+
+
+
+/* Formato general página de inicio*/
+
+.page-home h2{
+    text-align: center;
+    padding: 20;
+}
+
+.page-character h3{
+  text-align: center;
+  padding: 0;
+}
+
+
+.page-character .peliculas ul {
+  padding-left: 20px;
+}
+.page-character .peliculas ul li{
+  list-style-type: disc;
+  line-height: 2;
+}
+
+
+.page-category .inicial ul{
+  padding-left: 20px;
+}
+
+.page-category .inicial ul li{
+  list-style-type: disc;
+  line-height: 2;
+}
+
+/* Formato página de detalles de personaje */
+
+.img-resumen{
+    width: 100%;
+}
+
+
+
+/* Formato página de vídeos */
+
+.page-videos iframe{
+    width: 100%; 
+    height: 250px;
+    border: 0;
+}
+
+.page-videos .video-fluid{
+    background-color: var(--white-background);
+}
+
+.page-videos .video-fluid figcaption{
+    text-align: center;
+    padding: 10px 20px 15px 20px;
+}
+
+/* Formato página about */
+
+.page-about .img-timeline{
+  max-width: 100%;
+}
+
+/* Formato página sources */
+
+.page-sources .source{
+    font-weight: 600;
+}
+
+
+/* Formato general página de Películas */
+.page-movies main .container{
+    display: grid;
+    width: 100vw;
+    grid-gap: 10px;
+}
+
+.img-poster{
+    width: 100%;
+}
+
+.page-movies .film{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin: 0;
+    padding: 0.5em;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 0px 10px 10px 10px;
+    background-color: var(--white-background);
+    border-radius: 10px;
+}
+
+.page-movies .film-title{
+    padding: 10px 0 10px 0;
+    font-family: 'Bangers';
+}
+
+.page-movies .poster{
+    object-fit: scale-down;
+    max-width: 100%;
+    flex: 1;
+    min-height: 0;
+    border-radius: 10px;
+}    

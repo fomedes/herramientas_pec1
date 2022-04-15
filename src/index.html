@@ -2,11 +2,152 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>My First Parcel App</title>
-    <link rel="stylesheet" href="styles.css" />
-    <script type="module" src="app.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Cine Marvel</title>
+
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/styles.css" />
+    <script type="module" src="js/app.js"></script>
   </head>
-  <body>
-    <h1>Hello, World!</h1>
-  </body>
+
+
+
+<body class="page-home">
+	<header>
+		<nav class="container">
+            <a class="link-header" href="index.html" title = "Volver al inicio">
+                <p class="cabecera">Cine Marvel</p>
+            </a>
+    
+			<ul class="menu-links">
+				<li><a href="category.html">Personajes</a></li>
+                <li><a href="movies.html">Películas</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="sources.html">Fuentes</a></li>
+			</ul>
+		</nav>
+	</header>
+
+
+	<main>
+		<div class="intro-picture">
+            <img class="img-intro" src="img/MCU_logo.png" alt="">
+        </div>
+        <div class="container">
+            <section class="site-description">
+                <h2>¿Qué es el Universo Cinematográfico de Marvel?</h2>
+                <p>El Universo cinematográfico de Marvel (MCU; en inglés, Marvel Cinematic Universe) es una franquicia de medios y un universo compartido, centrada en una serie de películas de superhéroes producidas independientemente por Marvel Studios. Las películas están basadas en personajes que aparecen en los cómics estadounidenses publicados por Marvel Comics. La franquicia también incluye series de televisión, cortometrajes, series digitales y literatura.</p>
+                <p>La primera película del MCU es Iron Man (2008), que comenzó las películas de la Fase Uno culminando en la película crossover, The Avengers (2012). La Fase Dos comenzó con Iron Man 3 (2013) y concluyó con Ant-Man (2015). La Fase Tres comenzó con Captain America: Civil War (2016) y concluyó con Spider-Man: Lejos de casa (2019). Las primeras tres fases de la franquicia se conocen colectivamente como «La saga Infinity».a​ Las películas de la Fase Cuatro comenzaron con Black Widow (2021).</p>
+            </section>
+
+            <h2><a href="category.html">Personajes</a></h2>
+            <section class= "characters">
+                    <div class="character">
+                        <img class="img-character" src="img/resume/resume_IronMan.png">
+                        <p><a class="superhero" href="ironMan.html">Iron Man</a></p> 
+                        <p><a class="more" href="ironMan.html">Leer más</a></p> 
+                    </div>
+                    <div class="character">
+                        <img class="img-character" src="img/resume/resume_BlackWidow.png">
+                        <p><a class="superhero" href="blackWidow.html">Black Widow</a></p> 
+                        <p><a class="more" href="blackWidow.html">Leer más</a></p> 
+                    </div>
+                    <div class="character">
+                        <img class="img-character" src="img/resume/resume_CapitanAmerica.png">
+                        <p><a class="superhero" href="captainAmerica.html">Capitán América</a></p> 
+                        <p><a class="more" href="captainAmerica.html">Leer más</a></p> 
+                    </div>
+                    <div class="character">
+                        <img class="img-character" src="img/resume/resume_BlackPanther.png">
+                        <p><a class="superhero" href="blackPanther.html">Black Panther</a></p> 
+                        <p><a class="more" href="blackPanther.html">Leer más</a></p> 
+                    </div>
+                    <div class="character">
+                        <img class="img-character" src="img/resume/resume_Thor.png">
+                        <p><a class="superhero" href="thor.html">Thor</a></p> 
+                        <p><a class="more" href="thor.html">Leer más</a></p> 
+                    </div>
+            </section>
+
+            <h2><a href="movies.html">Últimas películas</a></h2>
+            <section class= "movies">
+                    <div class="movie">
+                        <img class="img-character" src="img/posters/poster_spiderMan_farfromHome.jpg">
+                        <p><a class="superhero" href="https://youtu.be/Nt9L1jCKGnE">Spider-Man: Lejos de casa</a></p> 
+                    </div>
+                    <div class="movie">
+                        <img class="img-character" src="img/posters/poster_blackWidow.jpg">
+                        <p><a class="superhero" href="https://youtu.be/RxAtuMu_ph4">Black Widow</a></p> 
+                    </div>
+                    <div class="movie">
+                        <img class="img-character" src="img/posters/poster_shangChi.jpg">
+                        <p><a class="superhero" href="https://youtu.be/giWIr7U1deA">Shang-Chi y la leyenda de los Diez Anillos</a></p> 
+                    </div>
+                    <div class="movie">
+                        <img class="img-character" src="img/posters/poster_eternals.jpg">
+                        <p><a class="superhero" href="https://youtu.be/x_me3xsvDgk">Eternals</a></p> 
+                    </div>
+                    <div class="movie">
+                        <img class="img-character" src="img/posters/poster_spiderMan_nowayHome.jpg">
+                        <p><a class="superhero" href="https://youtu.be/ZYzbalQ6Lg8">Spider-Man: sin camino a casa</a></p> 
+                    </div>
+            </section>
+
+
+        </div>
+
+		<div class="subscribe">
+            <section class="container-sub">
+                <h2>Suscríbete a nuestro boletín de noticias</h2>
+                <div class="centered-form">
+                    <div class="formulario">
+                        <form action="#" method="post">
+                            <fieldset>
+                                <legend>Datos personales</legend>
+            
+                                <div>
+                                    <label for="nombre" class="hidden-label">Nombre</label>
+                                    <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Nombre" pattern="[a-zA-ZàáâäãåąčćęèéêëėįìíîïłńòóôöõøùúûüųūÿýżźñçčšžÀÁÂÄÃÅĄĆČĖĘÈÉÊËÌÍÎÏĮŁŃÒÓÔÖÕØÙÚÛÜŲŪŸÝŻŹÑßÇŒÆČŠŽ∂ð ,.'-]{2,64}" required>
+                                </div>
+            
+                                <div>
+                                    <label for="email" class="hidden-label">Correo electrónico</label>
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Correo electrónico" required>
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+
+                        <p>INFORMACIÓN SOBRE PROTECCIÓN DE DATOS DE <strong>Cine Marvel.</strong>
+                        <strong>Finalidades</strong>: recogida de datos para el envío de información. 
+                        <strong>Legitimación</strong>: Consentimiento del interesado.
+                        <strong>Destinatarios</strong>: No están previstas cesiones de datos a terceros, excepto obligación legal.
+                        <strong>Derechos</strong>: Puede retirar su consentimiento en cualquier momento, así como acceder, rectificar, suprimir sus datos y otros derechos dirigiéndose a <a href="">@cinemarvel.info</a>.
+                        <strong>Información Adicional</strong>: Puede ampliar la información en el enlace de <a href="">Aviso legal</a> y <a href="">Política de privacidad</a>.</p>
+
+                    <div class="conditions"><input type="checkbox" required id="acepto" value="Acepto"> <label for="acepto">He leído y acepto la política de privacidad y las condiciones de uso</label>
+                    </div>
+                    <button type="submit" class="boton">Suscríbeme</button>
+                </div>
+            </section>
+		</div>
+	</main>
+
+	<footer>
+		<div class="container">
+            <section>
+                <ul class="legal-links">
+                    <li class="first-link"><a href="">Aviso legal</a></li>
+                    <li><a href="">Política de privacidad</a></li>
+                    <li><a href="">Política de cookies</a></li>
+                </ul>
+            </section>
+            <section>
+                <span>Actividad realizada por Francisco Omedes Roig, para la asignatura Herramientas HTML y CSS. Segundo semestre del curso 2021-2022</span>
+            </section>
+		</div>
+	</footer>
+</body>
+
 </html>

@@ -1,8 +1,95 @@
-7157
+7324
+45/home/fomedes/projects/pec1/main/objects/pack1649271701638543572 1
+40/home/fomedes/projects/pec1/main/objects1649271701638543572 1
+56/home/fomedes/projects/pec1/main/hooks/pre-commit.sample1649271701638543572 0
+57/home/fomedes/projects/pec1/main/hooks/pre-receive.sample1649271701638543572 0
+60/home/fomedes/projects/pec1/main/hooks/pre-applypatch.sample1649271701638543572 0
+52/home/fomedes/projects/pec1/main/hooks/update.sample1649271701638543572 0
+64/home/fomedes/projects/pec1/main/hooks/fsmonitor-watchman.sample1649271701638543572 0
+39/home/fomedes/projects/pec1/main/config1649272248108540394 0
+37/home/fomedes/projects/pec1/main/HEAD1649271701638543572 0
 38/home/fomedes/projects/pec1/.postcssrc1649199481557812747 0
-43/home/fomedes/projects/pec1/dist/index.html1649271423388545191 0
-42/home/fomedes/projects/pec1/src/index.html1649198814267816628 0
-31/home/fomedes/projects/pec1/src1649199500077812639 1
+51/home/fomedes/projects/pec1/dist/index.77a9bc14.css1650041755049187783 0
+74/home/fomedes/projects/pec1/dist/poster_spiderMan_farfromHome.5dbfaddb.jpg1650041755209187782 0
+44/home/fomedes/projects/pec1/dist/movies.html1650041755169187783 0
+43/home/fomedes/projects/pec1/dist/index.html1650041755049187783 0
+45/home/fomedes/projects/pec1/dist/sources.html1650041755189187782 0
+53/home/fomedes/projects/pec1/dist/favicon.824cf0c5.ico1650041755049187783 0
+61/home/fomedes/projects/pec1/dist/poster_ironMan3.b6e9a0be.jpg1650041755209187782 0
+68/home/fomedes/projects/pec1/dist/poster_avengers_ultron.23ad91e1.jpg1650041755219187782 0
+61/home/fomedes/projects/pec1/dist/poster_ironMan2.850c2b0c.jpg1650041755209187782 0
+62/home/fomedes/projects/pec1/dist/poster_guardians.e265b3b1.jpg1650041755119187783 0
+72/home/fomedes/projects/pec1/dist/poster_spiderMan_nowayHome.4c49d7a4.jpg1650041755209187782 0
+50/home/fomedes/projects/pec1/dist/index.59a40e7a.js1650041755189187782 0
+58/home/fomedes/projects/pec1/dist/MCU_timeline.f22f5b6b.jpg1650041755149187783 0
+62/home/fomedes/projects/pec1/dist/poster_drStrange.c84294e9.jpg1650041755129187783 0
+54/home/fomedes/projects/pec1/dist/index.59a40e7a.js.map1650041755209187782 0
+45/home/fomedes/projects/pec1/dist/ironMan.html1650041755049187783 0
+57/home/fomedes/projects/pec1/dist/poster_thor.515a325f.jpg1650041755139187783 0
+81/home/fomedes/projects/pec1/dist/poster_captainAmerica_winterSoldier.11377b07.jpg1650041755219187782 0
+61/home/fomedes/projects/pec1/dist/poster_shangChi.5138acde.jpg1650041755209187782 0
+67/home/fomedes/projects/pec1/dist/resume_CapitanAmerica.592710e5.png1650041755229187782 0
+70/home/fomedes/projects/pec1/dist/poster_avengers_infinity.9b29059f.jpg1650041755219187782 0
+50/home/fomedes/projects/pec1/dist/blackPanther.html1650041755049187783 0
+63/home/fomedes/projects/pec1/dist/resume_BlackWidow.066c60fe.png1650041755229187782 0
+54/home/fomedes/projects/pec1/dist/MCU_logo.73082a88.png1650041755129187783 0
+67/home/fomedes/projects/pec1/dist/poster_thor_darkWorld.dc6e5ece.jpg1650041755139187783 0
+55/home/fomedes/projects/pec1/dist/index.77a9bc14.css.map1650041755059187783 0
+64/home/fomedes/projects/pec1/dist/poster_antMan_Wasp.cdb73ec6.jpg1650041755139187783 0
+57/home/fomedes/projects/pec1/dist/poster_hulk.0197549d.jpg1650041755109187783 0
+37/home/fomedes/projects/pec1/README.md1649283875765929055 0
+69/home/fomedes/projects/pec1/src/img/posters/poster_guardians_vol2.jpg1649722337621219000 0
+84/home/fomedes/projects/pec1/src/img/posters/poster_captainMarvel.jpg:Zone.Identifier1649722286766952612 0
+83/home/fomedes/projects/pec1/src/img/posters/poster_blackPanther.jpg:Zone.Identifier1649722212556953044 0
+86/home/fomedes/projects/pec1/src/img/posters/poster_avengers_ultron.jpg:Zone.Identifier1649722174446953266 0
+88/home/fomedes/projects/pec1/src/img/posters/poster_avengers_infinity.jpg:Zone.Identifier1649722189096953180 0
+81/home/fomedes/projects/pec1/src/img/posters/poster_blackWidow.jpg:Zone.Identifier1649722221596952991 0
+63/home/fomedes/projects/pec1/src/img/posters/poster_avengers.jpg1649722154405920500 0
+63/home/fomedes/projects/pec1/src/img/posters/poster_ironMan3.jpg1649722370728157100 0
+72/home/fomedes/projects/pec1/src/img/posters/poster_avengers_infinity.jpg1649722182484740700 0
+61/home/fomedes/projects/pec1/src/img/posters/poster_antMan.jpg1649722118507770200 0
+74/home/fomedes/projects/pec1/src/img/posters/poster_spiderMan_nowayHome.jpg1649722444819654800 0
+85/home/fomedes/projects/pec1/src/img/posters/poster_guardians_vol2.jpg:Zone.Identifier1649722344436952277 0
+84/home/fomedes/projects/pec1/src/img/posters/poster_thor_ragnarok.jpg:Zone.Identifier1649722518996951262 0
+78/home/fomedes/projects/pec1/src/img/posters/poster_shanChi.jpg:Zone.Identifier1649722386476952032 0
+94/home/fomedes/projects/pec1/src/img/posters/poster_captainAmerica_civilWar.jpg:Zone.Identifier1649722275066952680 0
+76/home/fomedes/projects/pec1/src/img/posters/poster_spiderMan_farfromHome.jpg1649722425745102500 0
+63/home/fomedes/projects/pec1/src/img/posters/poster_ironMan2.jpg1649721898476796100 0
+80/home/fomedes/projects/pec1/src/img/posters/poster_drStrange.jpg:Zone.Identifier1649722298086952547 0
+99/home/fomedes/projects/pec1/src/img/posters/poster_captainAmerica_winterSoldier.jpg:Zone.Identifier1649722251466952818 0
+63/home/fomedes/projects/pec1/src/img/posters/poster_eternals.jpg1649722320908654400 0
+75/home/fomedes/projects/pec1/src/img/posters/poster_Thor.jpg:Zone.Identifier1649722473326951527 0
+87/home/fomedes/projects/pec1/src/img/posters/poster_avengers_endgame.jpg:Zone.Identifier1649722200096953116 0
+71/home/fomedes/projects/pec1/src/img/posters/poster_avengers_endgame.jpg1649722193845425700 0
+77/home/fomedes/projects/pec1/src/img/posters/poster_antMan.jpg:Zone.Identifier1649722125166953552 0
+90/home/fomedes/projects/pec1/src/img/posters/poster_spiderMan_nowayHome.jpg:Zone.Identifier1649722461806951594 0
+78/home/fomedes/projects/pec1/src/img/posters/poster_captainAmerica_civilWar.jpg1649722265065631500 0
+68/home/fomedes/projects/pec1/src/img/posters/poster_thor_ragnarok.jpg1649722513645493400 0
+59/home/fomedes/projects/pec1/src/img/posters/poster_thor.jpg1649722468864892900 0
+75/home/fomedes/projects/pec1/src/img/posters/poster_spiderMan_homecoming.jpg1649722413021699700 0
+69/home/fomedes/projects/pec1/src/img/posters/poster_thor_darkWorld.jpg1649722480647074300 0
+43/home/fomedes/projects/pec1/src/img/posters1650019163789319180 1
+70/home/fomedes/projects/pec1/src/img/resume/resume_Thor:Zone.Identifier1650031046159250069 0
+74/home/fomedes/projects/pec1/src/img/resume/resume_Thor.png:Zone.Identifier1650041563164171800 0
+68/home/fomedes/projects/pec1/src/img/resume/resume_CapitanAmerica.png1650041517487500400 0
+56/home/fomedes/projects/pec1/main/hooks/commit-msg.sample1649271701638543572 0
+64/home/fomedes/projects/pec1/src/img/resume/resume_BlackWidow.png1650041501970465800 0
+61/home/fomedes/projects/pec1/src/img/resume/resume_IronMan.png1650041547734830400 0
+64/home/fomedes/projects/pec1/src/img/MCU_logo.png:Zone.Identifier1650019544259316967 0
+68/home/fomedes/projects/pec1/src/img/MCU_timeline.jpg:Zone.Identifier1650025779149280703 0
+48/home/fomedes/projects/pec1/src/img/MCU_logo.png1650019537903149400 0
+35/home/fomedes/projects/pec1/src/img1650028543449264625 1
+41/home/fomedes/projects/pec1/src/thor.html1650032832689239678 0
+42/home/fomedes/projects/pec1/src/index.html1650041718269187997 0
+44/home/fomedes/projects/pec1/src/sources.html1650035981139221366 0
+41/home/fomedes/projects/pec1/src/hulk.html1650032176339243496 0
+41/home/fomedes/projects/pec1/src/js/app.js1650027966659267980 0
+34/home/fomedes/projects/pec1/src/js1649595754387914393 1
+46/home/fomedes/projects/pec1/src/css/styles.css1650041390359189904 0
+44/home/fomedes/projects/pec1/src/ironMan.html1650029723479257762 0
+47/home/fomedes/projects/pec1/src/blackWidow.html1650032257309243025 0
+49/home/fomedes/projects/pec1/src/blackPanther.html1650033592759235257 0
+31/home/fomedes/projects/pec1/src1650030944689250659 1
 45/home/fomedes/projects/pec1/package-lock.json1649199367187813412 0
 63/home/fomedes/projects/pec1/node_modules/resolve-from/readme.md1649197439837824622 0
 62/home/fomedes/projects/pec1/node_modules/resolve-from/index.js1649197439807824622 0
@@ -45,6 +132,7 @@
 63/home/fomedes/projects/pec1/node_modules/nan/nan_maybe_43_inl.h1649197439977824621 0
 71/home/fomedes/projects/pec1/node_modules/nan/nan_callbacks_pre_12_inl.h1649197439897824622 0
 50/home/fomedes/projects/pec1/node_modules/nan/nan.h1649197440057824621 0
+66/home/fomedes/projects/pec1/src/img/posters/poster_antMan_Wasp.jpg1649722135381195500 0
 68/home/fomedes/projects/pec1/node_modules/nan/nan_converters_43_inl.h1649197439927824622 0
 68/home/fomedes/projects/pec1/node_modules/nan/nan_persistent_12_inl.h1649197439997824621 0
 60/home/fomedes/projects/pec1/node_modules/nan/include_dirs.js1649197439847824622 0
@@ -93,6 +181,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/HT.js1649197440347824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/ET.js1649197440327824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/SB.js1649197440397824619 0
+94/home/fomedes/projects/pec1/src/img/posters/Marvel_Cinematic_Universe_logo.png:Zone.Identifier1650019138009319330 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/KG.js1649197440357824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/MP.js1649197440367824619 0
 54/home/fomedes/projects/pec1/node_modules/nan/README.md1649197440057824621 0
@@ -120,6 +209,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/DZ.js1649197440327824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/UY.js1649197440417824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/IR.js1649197440357824619 0
+65/home/fomedes/projects/pec1/dist/resume_BlackPanther.51eda2ca.png1650041755219187782 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/AT.js1649197440067824621 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/BI.js1649197440127824620 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/ES.js1649197440327824619 0
@@ -138,6 +228,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/AL.js1649197439987824621 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/GQ.js1649197440347824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/PM.js1649197440387824619 0
+60/home/fomedes/projects/pec1/dist/resume_IronMan.05ab96d6.png1650041755229187782 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/BO.js1649197440137824620 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/GF.js1649197440347824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/BJ.js1649197440127824620 0
@@ -177,6 +268,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/GP.js1649197440347824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/KP.js1649197440357824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/DJ.js1649197440317824619 0
+57/home/fomedes/projects/pec1/dist/category.8f0c9192.js.map1650041755179187783 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/KR.js1649197440357824619 0
 76/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/alt-af.js1649197439987824621 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/PT.js1649197440387824619 0
@@ -205,11 +297,13 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/IQ.js1649197440357824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/JO.js1649197440357824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/CF.js1649197440157824620 0
+65/home/fomedes/projects/pec1/src/img/posters/poster_blackWidow.jpg1649722216521552100 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/VU.js1649197440417824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/TM.js1649197440407824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/GI.js1649197440347824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/EG.js1649197440327824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/AX.js1649197440097824621 0
+52/home/fomedes/projects/pec1/dist/captainAmerica.html1650041755049187783 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/AR.js1649197440047824621 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/JP.js1649197440357824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/AF.js1649197439937824622 0
@@ -219,6 +313,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/CG.js1649197440157824620 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/TD.js1649197440407824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/MX.js1649197440377824619 0
+80/home/fomedes/projects/pec1/src/img/posters/poster_guardians.jpg:Zone.Identifier1649722333226952342 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/JM.js1649197440357824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/NL.js1649197440377824619 0
 61/home/fomedes/projects/pec1/node_modules/caniuse-lite/LICENSE1649197439807824622 0
@@ -254,7 +349,6 @@
 77/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/dialog.js1649197440317824619 0
 85/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-dir-pseudo.js1649197440227824620 0
 84/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-scrollbar.js1649197440287824619 0
-55/home/fomedes/projects/pec1/dist/index.4d663569.css.map1649271443918545071 0
 88/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-marker-pseudo.js1649197440247824620 0
 81/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/web-serial.js1649197440417824619 0
 78/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/svg-css.js1649197440407824619 0
@@ -298,6 +392,7 @@
 78/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/ch-unit.js1649197440157824620 0
 89/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/font-unicode-range.js1649197440337824619 0
 77/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/jpegxl.js1649197440357824619 0
+61/home/fomedes/projects/pec1/dist/poster_eternals.fad0e544.jpg1650041755099187783 0
 89/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-touch-action-2.js1649197440307824619 0
 78/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/ac3-ec3.js1649197439877824622 0
 91/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-case-insensitive.js1649197440217824620 0
@@ -424,6 +519,7 @@
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-unset-value.js1649197440307824619 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/PY.js1649197440387824619 0
 88/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/template-literals.js1649197440407824619 0
+63/home/fomedes/projects/pec1/src/img/posters/poster_shangChi.jpg1649722381730414200 0
 94/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-overscroll-behavior.js1649197440267824620 0
 82/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/sql-storage.js1649197440397824619 0
 77/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/tls1-3.js1649197440407824619 0
@@ -443,6 +539,7 @@
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/referrer-policy.js1649197440387824619 0
 84/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/notifications.js1649197440377824619 0
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/arrow-functions.js1649197440057824621 0
+48/home/fomedes/projects/pec1/dist/blackWidow.html1650041755049187783 0
 99/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/justify-content-space-evenly.js1649197440357824619 0
 81/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-shapes.js1649197440287824619 0
 63/home/fomedes/projects/pec1/node_modules/nan/tools/package.json1649197440107824621 0
@@ -499,6 +596,7 @@
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/resource-timing.js1649197440397824619 0
 84/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/server-timing.js1649197440397824619 0
 92/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-media-interaction.js1649197440247824620 0
+58/home/fomedes/projects/pec1/src/img/resume/resume_Thor.png1650041563164171800 0
 89/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-cascade-layers.js1649197440207824620 0
 88/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-initial-value.js1649197440237824620 0
 94/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/upgradeinsecurerequests.js1649197440417824619 0
@@ -571,6 +669,7 @@
 52/home/fomedes/projects/pec1/node_modules/postcss/lib1649199367077813413 1
 58/home/fomedes/projects/pec1/node_modules/postcss/README.md1649199367047813413 0
 48/home/fomedes/projects/pec1/node_modules/postcss1649199367047813413 1
+69/home/fomedes/projects/pec1/src/img/posters/poster_captainAmerica.jpg1649722229197256400 0
 62/home/fomedes/projects/pec1/node_modules/node-releases/LICENSE1649197439797824622 0
 76/home/fomedes/projects/pec1/node_modules/node-releases/data/release-schedule1649197439897824622 1
 69/home/fomedes/projects/pec1/node_modules/node-releases/data/processed1649197439827824622 1
@@ -735,6 +834,7 @@
 85/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/getModuleDependencies.js1649199367107813413 0
 89/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/evaluateTailwindFunctions.js1649199367107813413 0
 75/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/sharedState.js1649199367137813412 0
+59/home/fomedes/projects/pec1/src/img/posters/poster_hulk.jpg1649721839343043900 0
 80/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/defaultExtractor.js1649199367097813413 0
 77/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/generateRules.js1649199367107813413 0
 86/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/resolveDefaultsAtRules.js1649199367137813412 0
@@ -764,6 +864,7 @@
 68/home/fomedes/projects/pec1/node_modules/tailwindcss/src/css/LICENSE1649199366937813414 0
 60/home/fomedes/projects/pec1/node_modules/tailwindcss/src/css1649199366947813414 1
 81/home/fomedes/projects/pec1/node_modules/tailwindcss/src/util/normalizeScreens.js1649199367137813412 0
+80/home/fomedes/projects/pec1/src/img/resume/resume_BlackWidow.png:Zone.Identifier1650041501970465800 0
 76/home/fomedes/projects/pec1/node_modules/tailwindcss/src/util/pluginUtils.js1649199367137813412 0
 58/home/fomedes/projects/pec1/node_modules/nan/doc/errors.md1649197440067824621 0
 80/home/fomedes/projects/pec1/node_modules/tailwindcss/src/util/parseDependency.js1649199367137813412 0
@@ -793,6 +894,7 @@
 61/home/fomedes/projects/pec1/node_modules/tailwindcss/src/util1649199367137813412 1
 85/home/fomedes/projects/pec1/node_modules/tailwindcss/src/lib/getModuleDependencies.js1649199367107813413 0
 91/home/fomedes/projects/pec1/node_modules/tailwindcss/src/lib/normalizeTailwindDirectives.js1649199367137813412 0
+37/home/fomedes/projects/pec1/main/info1649271701638543572 1
 89/home/fomedes/projects/pec1/node_modules/tailwindcss/src/lib/evaluateTailwindFunctions.js1649199367107813413 0
 75/home/fomedes/projects/pec1/node_modules/tailwindcss/src/lib/sharedState.js1649199367137813412 0
 87/home/fomedes/projects/pec1/node_modules/tailwindcss/src/lib/substituteScreenAtRules.js1649199367137813412 0
@@ -848,6 +950,7 @@
 52/home/fomedes/projects/pec1/node_modules/yaml/seq.js1649197440087824621 0
 56/home/fomedes/projects/pec1/node_modules/yaml/index.d.ts1649197440127824620 0
 55/home/fomedes/projects/pec1/node_modules/yaml/schema.js1649197440087824621 0
+73/home/fomedes/projects/pec1/dist/poster_spiderMan_homecoming.1023ac1d.jpg1650041755139187783 0
 73/home/fomedes/projects/pec1/node_modules/yaml/dist/PlainValue-ec8e588e.js1649197440057824621 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/LK.js1649197440367824619 0
 63/home/fomedes/projects/pec1/node_modules/yaml/dist/parse-cst.js1649197440037824621 0
@@ -873,7 +976,7 @@
 60/home/fomedes/projects/pec1/node_modules/minimatch/README.md1649198029787821191 0
 63/home/fomedes/projects/pec1/node_modules/minimatch/package.json1649198029767821191 0
 63/home/fomedes/projects/pec1/node_modules/react-refresh/babel.js1649197439807824622 0
-32/home/fomedes/projects/pec1/dist1649271443918545071 1
+32/home/fomedes/projects/pec1/dist1650041755229187782 1
 96/home/fomedes/projects/pec1/node_modules/react-refresh/cjs/react-refresh-babel.production.min.js1649197439877824622 0
 58/home/fomedes/projects/pec1/node_modules/react-refresh/cjs1649197439907824622 1
 65/home/fomedes/projects/pec1/node_modules/react-refresh/runtime.js1649197439917824622 0
@@ -993,6 +1096,7 @@
 77/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/ExplorerBase.js.map1649197439947824621 0
 79/home/fomedes/projects/pec1/node_modules/@nodelib/fs.walk/out/providers/sync.js1649199366867813414 0
 80/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/getPropertyByPath.d.ts1649197440057824621 0
+45/home/fomedes/projects/pec1/main/info/exclude1649271701638543572 0
 79/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/getDirectory.d.ts.map1649197439957824621 0
 79/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/cacheWrapper.d.ts.map1649197439917824622 0
 78/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/getPropertyByPath.js1649197439877824622 0
@@ -1110,6 +1214,7 @@
 67/home/fomedes/projects/pec1/node_modules/htmlnano/docs/package.json1649197440147824620 0
 76/home/fomedes/projects/pec1/node_modules/nan/nan_implementation_pre_12_inl.h1649197439957824621 0
 70/home/fomedes/projects/pec1/node_modules/htmlnano/docs/babel.config.js1649197439857824622 0
+79/home/fomedes/projects/pec1/src/img/posters/poster_ironMan3.jpg:Zone.Identifier1649722376576952090 0
 66/home/fomedes/projects/pec1/node_modules/htmlnano/docs/sidebars.js1649197440047824621 0
 54/home/fomedes/projects/pec1/node_modules/htmlnano/docs1649197440177824620 1
 58/home/fomedes/projects/pec1/node_modules/htmlnano/index.js1649197439947824621 0
@@ -1158,7 +1263,6 @@
 58/home/fomedes/projects/pec1/node_modules/path-key/index.js1649198029707821191 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/GM.js1649197440347824619 0
 49/home/fomedes/projects/pec1/node_modules/path-key1649198029717821191 1
-50/home/fomedes/projects/pec1/dist/index.0641b553.js1649271423418545190 0
 64/home/fomedes/projects/pec1/node_modules/supports-color/index.js1649197439827824622 0
 66/home/fomedes/projects/pec1/node_modules/@types/parse-json/LICENSE1649197439797824622 0
 55/home/fomedes/projects/pec1/node_modules/supports-color1649197439837824622 1
@@ -1256,6 +1360,7 @@
 95/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/custom-targets/package.json1649197440307824619 0
 109/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none/package.json1649197440317824619 0
 96/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/targets-default-distdir-none1649197440317824619 1
+43/home/fomedes/projects/pec1/src/favicon.ico1649594577261926200 0
 70/home/fomedes/projects/pec1/node_modules/@parcel/transformer-image/src1649197439897824622 1
 71/home/fomedes/projects/pec1/node_modules/is-shared-array-buffer/LICENSE1649198029507821192 0
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2016/ToUint16.js1649198030177821189 0
@@ -1410,6 +1515,7 @@
 104/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg1649197440247824620 1
 100/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope1649197439907824622 1
 74/home/fomedes/projects/pec1/node_modules/@swc/helpers/scripts/generator.sh1649197440107824621 0
+35/home/fomedes/projects/pec1/src/css1649595751297914411 1
 125/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false/src/index.js1649197440187824620 0
 67/home/fomedes/projects/pec1/node_modules/@parcel/cache/lib/types.js1649197439927824622 0
 84/home/fomedes/projects/pec1/node_modules/tailwindcss/src/util/flattenColorPalette.js1649199367107813413 0
@@ -1606,6 +1712,7 @@
 78/home/fomedes/projects/pec1/node_modules/@parcel/cache/src/IDBCache.browser.js1649197439887824622 0
 54/home/fomedes/projects/pec1/node_modules/@parcel/cache1649197439937824622 1
 70/home/fomedes/projects/pec1/node_modules/@parcel/markdown-ansi/LICENSE1649197439797824622 0
+46/home/fomedes/projects/pec1/dist/category.html1650041755049187783 0
 68/home/fomedes/projects/pec1/node_modules/@parcel/package-manager/src1649197440107824621 1
 84/home/fomedes/projects/pec1/node_modules/@parcel/runtime-service-worker/package.json1649197439867824622 0
 114/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked1649197440277824620 1
@@ -1818,6 +1925,7 @@
 80/home/fomedes/projects/pec1/node_modules/@parcel/transformer-babel/lib/babel7.js1649197439827824622 0
 70/home/fomedes/projects/pec1/node_modules/@parcel/transformer-babel/lib1649197439957824621 1
 89/home/fomedes/projects/pec1/node_modules/@parcel/transformer-babel/lib/babelErrorUtils.js1649197439867824622 0
+69/home/fomedes/projects/pec1/dist/poster_avengers_endgame.098c405b.jpg1650041755129187783 0
 74/home/fomedes/projects/pec1/node_modules/tailwindcss/src/util/dataTypes.js1649199367087813413 0
 74/home/fomedes/projects/pec1/node_modules/@parcel/transformer-babel/LICENSE1649197439797824622 0
 74/home/fomedes/projects/pec1/node_modules/@parcel/workers/lib/childState.js1649197439907824622 0
@@ -1944,6 +2052,7 @@
 72/home/fomedes/projects/pec1/node_modules/is-boolean-object/.editorconfig1649198029427821193 0
 50/home/fomedes/projects/pec1/node_modules/minimatch1649198029767821191 1
 59/home/fomedes/projects/pec1/node_modules/boolbase/README.md1649197439807824622 0
+70/home/fomedes/projects/pec1/src/img/posters/poster_avengers_ultron.jpg1649722165896338800 0
 82/home/fomedes/projects/pec1/node_modules/es-abstract/2015/DeletePropertyOrThrow.js1649198030067821189 0
 66/home/fomedes/projects/pec1/node_modules/@parcel/types/build-ts.js1649197439817824622 0
 70/home/fomedes/projects/pec1/node_modules/es-abstract/2020/StringPad.js1649198030157821189 0
@@ -1960,6 +2069,7 @@
 73/home/fomedes/projects/pec1/node_modules/@parcel/transformer-json/LICENSE1649197439797824622 0
 69/home/fomedes/projects/pec1/node_modules/@parcel/optimizer-terser/src1649197439837824622 1
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2020/MakeTime.js1649198030117821189 0
+84/home/fomedes/projects/pec1/src/img/resume/resume_CapitanAmerica.png:Zone.Identifier1650041517487500400 0
 90/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest4.c1649197440187824620 0
 65/home/fomedes/projects/pec1/node_modules/@parcel/optimizer-terser1649197439857824622 1
 84/home/fomedes/projects/pec1/node_modules/@parcel/markdown-ansi/test/markdown-ansi.js1649197439867824622 0
@@ -2018,6 +2128,7 @@
 87/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/lib/NodeResolver.js1649197440227824620 0
 55/home/fomedes/projects/pec1/node_modules/@parcel/fs/src1649197439947824621 1
 77/home/fomedes/projects/pec1/node_modules/@parcel/config-default/test/.babelrc1649197439817824622 0
+84/home/fomedes/projects/pec1/src/img/resume/resume-CaptainAmerica.png:Zone.Identifier1650028868439262735 0
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/matchesselector.js1649197440367824619 0
 90/home/fomedes/projects/pec1/node_modules/tailwindcss/src/postcss-plugins/nesting/plugin.js1649199367137813412 0
 74/home/fomedes/projects/pec1/node_modules/@parcel/config-default/index.json1649197439857824622 0
@@ -2058,6 +2169,7 @@
 72/home/fomedes/projects/pec1/node_modules/es-abstract/helpers/setProto.js1649198030147821189 0
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2016/WeekDay.js1649198030197821188 0
 67/home/fomedes/projects/pec1/node_modules/concat-map/README.markdown1649198029677821191 0
+75/home/fomedes/projects/pec1/src/img/posters/poster_drStrange_multiverse.jpg1649722305135972100 0
 59/home/fomedes/projects/pec1/node_modules/concat-map/LICENSE1649198029657821192 0
 64/home/fomedes/projects/pec1/node_modules/concat-map/package.json1649198029657821192 0
 51/home/fomedes/projects/pec1/node_modules/concat-map1649198029687821191 1
@@ -2084,6 +2196,7 @@
 87/home/fomedes/projects/pec1/node_modules/@swc/helpers/src/_skip_first_generator_next.js1649197440187824620 0
 84/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/resolver.js1649197440227824620 0
 65/home/fomedes/projects/pec1/node_modules/object-hash/package.json1649199366947813414 0
+78/home/fomedes/projects/pec1/src/img/posters/poster_ironMan.jpg:Zone.Identifier1649721563586956819 0
 47/home/fomedes/projects/pec1/node_modules/semver1649197439887824622 1
 66/home/fomedes/projects/pec1/node_modules/@parcel/hash/package.json1649197439857824622 0
 100/home/fomedes/projects/pec1/node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js1649198030027821189 0
@@ -2112,6 +2225,7 @@
 65/home/fomedes/projects/pec1/node_modules/utility-types/SUPPORT.md1649197439937824622 0
 66/home/fomedes/projects/pec1/node_modules/has-symbols/test/tests.js1649198029617821192 0
 60/home/fomedes/projects/pec1/node_modules/css-tree/lib/parser1649197440227824620 1
+67/home/fomedes/projects/pec1/dist/poster_captainAmerica.0c297548.jpg1650041755219187782 0
 72/home/fomedes/projects/pec1/node_modules/resolve/test/resolver/symlinked1649198029997821190 1
 54/home/fomedes/projects/pec1/node_modules/get-intrinsic1649198029647821192 1
 78/home/fomedes/projects/pec1/node_modules/resolve/test/node_path/y/ccc/index.js1649198030027821189 0
@@ -2169,6 +2283,7 @@
 65/home/fomedes/projects/pec1/node_modules/domutils/lib/querying.js1649197439897824622 0
 104/home/fomedes/projects/pec1/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json1649198030047821189 0
 81/home/fomedes/projects/pec1/node_modules/resolve/test/resolver/multirepo/packages1649198030027821189 1
+59/home/fomedes/projects/pec1/dist/poster_antMan.f24c75ce.jpg1650041755139187783 0
 91/home/fomedes/projects/pec1/node_modules/@parcel/utils/test/input/sourcemap/no-sourcemap.js1649197440157824620 0
 40/home/fomedes/projects/pec1/package.json1649199367187813412 0
 60/home/fomedes/projects/pec1/node_modules/terser/lib/compress1649197440187824620 1
@@ -2257,6 +2372,7 @@
 75/home/fomedes/projects/pec1/node_modules/resolve/test/node-modules-paths.js1649198030037821189 0
 73/home/fomedes/projects/pec1/node_modules/msgpackr-extract/src/extract.cpp1649197439817824622 0
 67/home/fomedes/projects/pec1/node_modules/resolve/test/pathfilter.js1649198030037821189 0
+37/home/fomedes/projects/pec1/main/refs1649271701638543572 1
 83/home/fomedes/projects/pec1/node_modules/fast-glob/out/providers/filters/error.d.ts1649199367067813413 0
 71/home/fomedes/projects/pec1/node_modules/css-what/lib/es/stringify.d.ts1649197440017824621 0
 94/home/fomedes/projects/pec1/node_modules/resolve/test/shadowed_core/node_modules/util/index.js1649198030037821189 0
@@ -2311,6 +2427,7 @@
 60/home/fomedes/projects/pec1/node_modules/concat-map/index.js1649198029657821192 0
 68/home/fomedes/projects/pec1/node_modules/terser/lib/equivalent-to.js1649197440117824620 0
 53/home/fomedes/projects/pec1/node_modules/.bin/pidtree1649198030207821188 0
+43/home/fomedes/projects/pec1/src/movies.html1650021886299303345 0
 53/home/fomedes/projects/pec1/node_modules/.bin/resolve1649198030207821188 0
 75/home/fomedes/projects/pec1/node_modules/css-what/lib/es/stringify.d.ts.map1649197439967824621 0
 89/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-featurequeries.js1649197440227824620 0
@@ -2363,12 +2480,14 @@
 59/home/fomedes/projects/pec1/node_modules/get-port/readme.md1649197439857824622 0
 66/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions1649197440437824619 1
 92/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.11649197440047824621 0
+57/home/fomedes/projects/pec1/dist/resume_Thor.10a82944.png1650041755229187782 0
 70/home/fomedes/projects/pec1/node_modules/weak-lru-cache/LRFUExpirer.js1649197439857824622 0
 119/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1649197440317824619 1
 49/home/fomedes/projects/pec1/node_modules/get-port1649197439837824622 1
 89/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/main-mjs/package.json1649197440317824619 0
 118/home/fomedes/projects/pec1/node_modules/@parcel/source-map/parcel_sourcemap_node/artifacts/index.linux-arm64-gnu.node1649197440197824620 0
 60/home/fomedes/projects/pec1/node_modules/anymatch/index.d.ts1649199366827813414 0
+92/home/fomedes/projects/pec1/src/img/posters/poster_spiderMan_farfromHome.jpg:Zone.Identifier1649722438636951729 0
 66/home/fomedes/projects/pec1/node_modules/spdx-exceptions/README.md1649198029427821193 0
 82/home/fomedes/projects/pec1/node_modules/normalize-package-data/lib/safe_format.js1649198029727821191 0
 57/home/fomedes/projects/pec1/node_modules/anymatch/LICENSE1649199366807813414 0
@@ -2447,6 +2566,7 @@
 87/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/nested1649197440237824620 1
 62/home/fomedes/projects/pec1/node_modules/postcss/lib/rule.d.ts1649199367077813413 0
 67/home/fomedes/projects/pec1/node_modules/@parcel/watcher/index.d.ts1649197440217824620 0
+45/home/fomedes/projects/pec1/main/objects/info1649271701638543572 1
 74/home/fomedes/projects/pec1/node_modules/@parcel/reporter-cli/package.json1649197439997824621 0
 67/home/fomedes/projects/pec1/node_modules/css-tree/lib/syntax/config1649197440237824620 1
 71/home/fomedes/projects/pec1/node_modules/es-abstract/2016/RegExpExec.js1649198030137821189 0
@@ -2479,6 +2599,7 @@
 90/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/module.c1649197440167824620 0
 70/home/fomedes/projects/pec1/node_modules/es-abstract/5/TimeFromYear.js1649198030167821189 0
 72/home/fomedes/projects/pec1/node_modules/css-tree/lib/syntax/node/Raw.js1649197440227824620 0
+76/home/fomedes/projects/pec1/dist/poster_captainAmerica_civilWar.84f39b52.jpg1650041755219187782 0
 79/home/fomedes/projects/pec1/node_modules/@swc/helpers/src/_wrap_native_super.js1649197440197824620 0
 70/home/fomedes/projects/pec1/node_modules/@parcel/transformer-image/lib1649197439877824622 1
 74/home/fomedes/projects/pec1/node_modules/css-tree/lib/syntax/node/Ratio.js1649197440227824620 0
@@ -2573,6 +2694,7 @@
 83/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_await_async_generator.js1649197439907824622 0
 87/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-unicode-bidi.js1649197440307824619 0
 60/home/fomedes/projects/pec1/node_modules/braces/CHANGELOG.md1649199366807813414 0
+84/home/fomedes/projects/pec1/src/img/resume/resume_CaptainAmerica.png:Zone.Identifier1650041517487500400 0
 76/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_async_iterator.js1649197439897824622 0
 88/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_apply_decorated_descriptor.js1649197439827824622 0
 85/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_class_private_field_set.js1649197439977824621 0
@@ -2591,6 +2713,7 @@
 82/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/text-stroke.js1649197440407824619 0
 79/home/fomedes/projects/pec1/node_modules/css-tree/lib/syntax/node/Combinator.js1649197440007824621 0
 88/home/fomedes/projects/pec1/node_modules/@parcel/watcher/src/watchman/WatchmanBackend.cc1649197439957824621 0
+53/home/fomedes/projects/pec1/dist/category.8f0c9192.js1650041755179187783 0
 60/home/fomedes/projects/pec1/node_modules/.bin/node-gyp-build1649197441047824615 0
 64/home/fomedes/projects/pec1/node_modules/object-keys/.travis.yml1649198029557821192 0
 66/home/fomedes/projects/pec1/node_modules/@parcel/watcher/src/linux1649197440027824621 1
@@ -2642,7 +2765,6 @@
 65/home/fomedes/projects/pec1/node_modules/es-abstract/2017/GetV.js1649198030087821189 0
 72/home/fomedes/projects/pec1/node_modules/es-abstract/2021/DayFromYear.js1649198030067821189 0
 87/home/fomedes/projects/pec1/node_modules/lmdb/prebuilds/linux-x64/node.abi102.musl.node1649197440377824619 0
-38/home/fomedes/projects/pec1/src/app.js1649198982747815648 0
 75/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/grid-end.js1649199367067813413 0
 69/home/fomedes/projects/pec1/node_modules/resolve/test/node_path/x/ccc1649198030027821189 1
 91/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_iterable_to_array_limit_loose.js1649197440067824621 0
@@ -2697,6 +2819,7 @@
 73/home/fomedes/projects/pec1/node_modules/@parcel/packager-js/lib/utils.js1649197439987824621 0
 83/home/fomedes/projects/pec1/node_modules/es-abstract/2020/OrdinarySetPrototypeOf.js1649198030137821189 0
 66/home/fomedes/projects/pec1/node_modules/@parcel/optimizer-css/src1649197439837824622 1
+91/home/fomedes/projects/pec1/src/img/posters/poster_spiderMan_homecoming.jpg:Zone.Identifier1649722420426951835 0
 93/home/fomedes/projects/pec1/node_modules/@babel/highlight/node_modules/chalk/types/index.d.ts1649197439897824622 0
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2020/ToBigInt.js1649198030167821189 0
 116/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias-glob/src1649197440237824620 1
@@ -2837,6 +2960,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/GT.js1649197440347824619 0
 70/home/fomedes/projects/pec1/node_modules/@swc/helpers/src/_defaults.js1649197440157824620 0
 66/home/fomedes/projects/pec1/node_modules/is-negative-zero/index.js1649198029537821192 0
+91/home/fomedes/projects/pec1/src/img/posters/poster_drStrange_multiverse.jpg:Zone.Identifier1649722315526952445 0
 76/home/fomedes/projects/pec1/node_modules/type-fest/source/literal-union.d.ts1649197439967824621 0
 73/home/fomedes/projects/pec1/node_modules/htmlparser2/lib/FeedHandler.d.ts1649197439947824621 0
 81/home/fomedes/projects/pec1/node_modules/@parcel/package-manager/lib/index.js.map1649197440167824620 0
@@ -2867,6 +2991,7 @@
 73/home/fomedes/projects/pec1/node_modules/@parcel/optimizer-terser/LICENSE1649197439797824622 0
 86/home/fomedes/projects/pec1/node_modules/@parcel/hash/parcel-hash.linux-arm64-gnu.node1649197440107824621 0
 77/home/fomedes/projects/pec1/node_modules/@swc/helpers/src/_super_prop_base.js1649197440187824620 0
+74/home/fomedes/projects/pec1/src/img/resume/resume_Hulk.png:Zone.Identifier1650041529638944400 0
 52/home/fomedes/projects/pec1/node_modules/.bin/semver1649197441047824615 0
 75/home/fomedes/projects/pec1/node_modules/type-fest/source/partial-deep.d.ts1649197439997824621 0
 64/home/fomedes/projects/pec1/node_modules/acorn-walk/package.json1649199366817813414 0
@@ -2938,7 +3063,7 @@
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/KI.js1649197440357824619 0
 80/home/fomedes/projects/pec1/node_modules/es-abstract/2016/IterableToArrayLike.js1649198030107821189 0
 75/home/fomedes/projects/pec1/node_modules/css-tree/lib/common/TokenStream.js1649197440237824620 0
-27/home/fomedes/projects/pec11649271423378545191 1
+27/home/fomedes/projects/pec11650041755029187783 1
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2020/ToObject.js1649198030177821189 0
 61/home/fomedes/projects/pec1/node_modules/cross-spawn/lib/util1649198029927821190 1
 81/home/fomedes/projects/pec1/node_modules/es-abstract/2021/OrdinaryObjectCreate.js1649198030137821189 0
@@ -2990,6 +3115,7 @@
 55/home/fomedes/projects/pec1/node_modules/terser/LICENSE1649197439827824622 0
 76/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lz4/lib/README.md1649197440287824619 0
 77/home/fomedes/projects/pec1/node_modules/@parcel/core/lib/loadParcelPlugin.js1649197440207824620 0
+42/home/fomedes/projects/pec1/src/img/resume1650041695589188129 1
 78/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_array_with_holes.js1649197439847824622 0
 86/home/fomedes/projects/pec1/node_modules/@parcel/package-manager/src/installPackage.js1649197440077824621 0
 61/home/fomedes/projects/pec1/node_modules/minimist/.travis.yml1649199366907813414 0
@@ -3068,6 +3194,7 @@
 63/home/fomedes/projects/pec1/node_modules/json5/lib/stringify.js1649197439937824622 0
 72/home/fomedes/projects/pec1/node_modules/is-boolean-object/test/index.js1649198029447821193 0
 75/home/fomedes/projects/pec1/node_modules/type-fest/ts41/delimiter-case.d.ts1649197439927824622 0
+41/home/fomedes/projects/pec1/main/branches1649271701638543572 1
 90/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/custom-format-mismatch1649197440307824619 1
 74/home/fomedes/projects/pec1/node_modules/@swc/helpers/src/_create_super.js1649197440157824620 0
 68/home/fomedes/projects/pec1/node_modules/minimist/test/whitespace.js1649199366897813414 0
@@ -3123,6 +3250,7 @@
 62/home/fomedes/projects/pec1/node_modules/yaml/browser/index.js1649197439937824622 0
 91/home/fomedes/projects/pec1/node_modules/postcss-selector-parser/dist/util/stripComments.js1649199367017813413 0
 89/home/fomedes/projects/pec1/node_modules/css-select/lib/pseudo-selectors/pseudos.d.ts.map1649197439997824621 0
+60/home/fomedes/projects/pec1/dist/poster_ironMan.bfdb5526.jpg1650041755199187782 0
 56/home/fomedes/projects/pec1/node_modules/acorn-walk/dist1649199366897813414 1
 81/home/fomedes/projects/pec1/node_modules/css-tree/lib/syntax/node/UnicodeRange.js1649197440237824620 0
 86/home/fomedes/projects/pec1/node_modules/@parcel/optimizer-htmlnano/src/svgMappings.js1649197439897824622 0
@@ -3134,6 +3262,7 @@
 49/home/fomedes/projects/pec1/node_modules/msgpackr1649197440017824621 1
 93/home/fomedes/projects/pec1/node_modules/postcss-selector-parser/dist/selectors/combinator.js1649199366867813414 0
 65/home/fomedes/projects/pec1/node_modules/es-abstract/CHANGELOG.md1649198030197821188 0
+67/home/fomedes/projects/pec1/src/img/posters/poster_blackPanther.jpg1649722205665106600 0
 53/home/fomedes/projects/pec1/node_modules/is-json/test1649197439867824622 1
 62/home/fomedes/projects/pec1/node_modules/is-core-module/.nycrc1649198029627821192 0
 70/home/fomedes/projects/pec1/node_modules/nullthrows/nullthrows.js.flow1649197439847824622 0
@@ -3520,6 +3649,7 @@
 64/home/fomedes/projects/pec1/node_modules/has-tostringtag/LICENSE1649198029447821193 0
 62/home/fomedes/projects/pec1/node_modules/is-callable/.eslintrc1649198029507821192 0
 96/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/invalid-targets/package.json1649197440317824619 0
+61/home/fomedes/projects/pec1/dist/poster_avengers.fa0994ab.jpg1650041755119187783 0
 83/home/fomedes/projects/pec1/node_modules/es-abstract/2015/OrdinaryGetOwnProperty.js1649198030127821189 0
 89/home/fomedes/projects/pec1/node_modules/postcss-selector-parser/dist/selectors/pseudo.js1649199366997813413 0
 74/home/fomedes/projects/pec1/node_modules/@swc/helpers/src/_to_primitive.js1649197440197824620 0
@@ -3555,6 +3685,8 @@
 94/home/fomedes/projects/pec1/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js.map1649197440177824620 0
 61/home/fomedes/projects/pec1/node_modules/has-bigints/index.js1649198029457821193 0
 90/home/fomedes/projects/pec1/node_modules/terser/node_modules/source-map/dist/source-map.js1649197439947824621 0
+64/home/fomedes/projects/pec1/src/img/posters/poster_drStrange.jpg1649722291968157300 0
+82/home/fomedes/projects/pec1/src/img/resume/resume_BlackPanther.png:Zone.Identifier1650041481762792700 0
 77/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lz4/lib/.npmignore1649197439927824622 0
 60/home/fomedes/projects/pec1/node_modules/has-symbols/.github1649198029657821192 1
 48/home/fomedes/projects/pec1/node_modules/is-json1649197439847824622 1
@@ -3636,6 +3768,7 @@
 73/home/fomedes/projects/pec1/node_modules/@parcel/packager-js/src/utils.js1649197439997824621 0
 60/home/fomedes/projects/pec1/node_modules/shell-quote/example1649198029937821190 1
 65/home/fomedes/projects/pec1/node_modules/resolve/test/node_path/y1649198030027821189 1
+77/home/fomedes/projects/pec1/src/img/resume/resume_IronMan.png:Zone.Identifier1650041547734830400 0
 63/home/fomedes/projects/pec1/node_modules/detective/CHANGELOG.md1649199366847813414 0
 65/home/fomedes/projects/pec1/node_modules/path-is-absolute/license1649198029597821192 0
 77/home/fomedes/projects/pec1/node_modules/supports-preserve-symlinks-flag/test1649198029647821192 1
@@ -3661,6 +3794,7 @@
 59/home/fomedes/projects/pec1/node_modules/acorn/package.json1649197439947824621 0
 65/home/fomedes/projects/pec1/node_modules/cross-spawn/package.json1649198029727821191 0
 79/home/fomedes/projects/pec1/node_modules/es-abstract/2021/IsConcatSpreadable.js1649198030097821189 0
+62/home/fomedes/projects/pec1/main/hooks/pre-merge-commit.sample1649271701638543572 0
 82/home/fomedes/projects/pec1/node_modules/es-abstract/helpers/isLeadingSurrogate.js1649198030097821189 0
 81/home/fomedes/projects/pec1/node_modules/es-abstract/2018/StringGetOwnProperty.js1649198030157821189 0
 64/home/fomedes/projects/pec1/node_modules/@parcel/core/lib/public1649197440257824620 1
@@ -3689,6 +3823,7 @@
 82/home/fomedes/projects/pec1/node_modules/lmdb/prebuilds/win32-x64/node.abi102.node1649197440377824619 0
 81/home/fomedes/projects/pec1/node_modules/yaml/browser/dist/PlainValue-b8036b75.js1649197440047824621 0
 69/home/fomedes/projects/pec1/node_modules/acorn-node/node_modules/.bin1649199367157813412 1
+42/home/fomedes/projects/pec1/src/about.html1650026390919277145 0
 78/home/fomedes/projects/pec1/node_modules/type-fest/source/merge-exclusive.d.ts1649197439977824621 0
 66/home/fomedes/projects/pec1/node_modules/@babel/code-frame/LICENSE1649197439797824622 0
 68/home/fomedes/projects/pec1/node_modules/utility-types/dist/index.js1649197439847824622 0
@@ -3744,6 +3879,7 @@
 62/home/fomedes/projects/pec1/node_modules/path-key/package.json1649198029697821191 0
 69/home/fomedes/projects/pec1/node_modules/acorn-walk/dist/walk.mjs.map1649199366847813414 0
 88/home/fomedes/projects/pec1/node_modules/csso/lib/restructure/prepare/processSelector.js1649197440107824621 0
+57/home/fomedes/projects/pec1/main/hooks/post-update.sample1649271701638543572 0
 73/home/fomedes/projects/pec1/node_modules/es-abstract/2018/ObjectCreate.js1649198030127821189 0
 82/home/fomedes/projects/pec1/node_modules/@parcel/packager-html/src/HTMLPackager.js1649197439867824622 0
 63/home/fomedes/projects/pec1/node_modules/is-core-module/LICENSE1649198029637821192 0
@@ -3799,6 +3935,7 @@
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2021/ToIndex.js1649198030167821189 0
 68/home/fomedes/projects/pec1/node_modules/normalize-path/package.json1649199366837813414 0
 79/home/fomedes/projects/pec1/node_modules/type-fest/source/conditional-pick.d.ts1649197439927824622 0
+79/home/fomedes/projects/pec1/src/img/posters/poster_eternals.jpg:Zone.Identifier1649722324086952395 0
 79/home/fomedes/projects/pec1/node_modules/type-fest/source/conditional-keys.d.ts1649197439917824622 0
 66/home/fomedes/projects/pec1/node_modules/detective/test/strings.js1649199367047813413 0
 64/home/fomedes/projects/pec1/node_modules/csso/lib/replace/atrule1649197440107824621 1
@@ -3951,6 +4088,7 @@
 63/home/fomedes/projects/pec1/node_modules/fast-glob/out/index.js1649199366967813413 0
 81/home/fomedes/projects/pec1/node_modules/es-abstract/2017/IsPropertyDescriptor.js1649198030107821189 0
 120/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/package.json1649197440257824620 0
+45/home/fomedes/projects/pec1/src/category.html1650031205749249141 0
 77/home/fomedes/projects/pec1/node_modules/get-symbol-description/.eslintignore1649198029527821192 0
 62/home/fomedes/projects/pec1/node_modules/which-boxed-primitive1649198029467821193 1
 67/home/fomedes/projects/pec1/node_modules/css-tree/lib/syntax/pseudo1649197440227824620 1
@@ -3975,6 +4113,7 @@
 61/home/fomedes/projects/pec1/node_modules/reusify/package.json1649199366727813415 0
 74/home/fomedes/projects/pec1/node_modules/es-abstract/helpers/isPrefixOf.js1649198030107821189 0
 106/home/fomedes/projects/pec1/node_modules/@parcel/node-resolver-core/test/fixture/packages/source/source.js1649197440227824620 0
+75/home/fomedes/projects/pec1/src/img/posters/poster_hulk.jpg:Zone.Identifier1649721849736955154 0
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2016/ToInt16.js1649198030167821189 0
 69/home/fomedes/projects/pec1/node_modules/css-tree/lib/lexer/search.js1649197440227824620 0
 84/home/fomedes/projects/pec1/node_modules/entities/lib/generated/decode-data-xml.d.ts1649197440007824621 0
@@ -3997,6 +4136,7 @@
 70/home/fomedes/projects/pec1/node_modules/css-tree/lib/parser/create.js1649197440057824621 0
 90/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/crypto.c1649197440067824621 0
 88/home/fomedes/projects/pec1/node_modules/@parcel/transformer-json/lib/JSONTransformer.js1649197439827824622 0
+79/home/fomedes/projects/pec1/src/img/posters/poster_avengers.jpg:Zone.Identifier1649722160306953348 0
 69/home/fomedes/projects/pec1/node_modules/@parcel/workers/package.json1649197440087824621 0
 62/home/fomedes/projects/pec1/node_modules/react-refresh/LICENSE1649197439797824622 0
 58/home/fomedes/projects/pec1/node_modules/picomatch/LICENSE1649199366807813414 0
@@ -4007,7 +4147,6 @@
 100/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/domfocusin-domfocusout-events.js1649197440327824619 0
 53/home/fomedes/projects/pec1/node_modules/htmlnano/lib1649197439937824622 1
 63/home/fomedes/projects/pec1/node_modules/css-tree/lib/generator1649197440227824620 1
-42/home/fomedes/projects/pec1/src/styles.css1649271446408545057 0
 77/home/fomedes/projects/pec1/node_modules/tailwindcss/lib/lib/detectNesting.js1649199367107813413 0
 57/home/fomedes/projects/pec1/node_modules/v8-compile-cache1649197439867824622 1
 85/home/fomedes/projects/pec1/node_modules/es-abstract/2020/StrictEqualityComparison.js1649198030157821189 0
@@ -4136,6 +4275,7 @@
 92/home/fomedes/projects/pec1/node_modules/postcss-selector-parser/dist/selectors/universal.js1649199367037813413 0
 81/home/fomedes/projects/pec1/node_modules/@parcel/core/lib/public/PluginOptions.js1649197440237824620 0
 71/home/fomedes/projects/pec1/node_modules/@parcel/source-map/src/wasm.js1649197440007824621 0
+58/home/fomedes/projects/pec1/src/img/resume/resume_Hulk.png1650041529638944400 0
 87/home/fomedes/projects/pec1/node_modules/npm-run-all/node_modules/color-convert/LICENSE1649198029407821193 0
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2021/ToBigInt.js1649198030167821189 0
 58/home/fomedes/projects/pec1/node_modules/.bin/autoprefixer1649199367147813412 0
@@ -4301,6 +4441,7 @@
 86/home/fomedes/projects/pec1/node_modules/binary-extensions/binary-extensions.json.d.ts1649199366727813415 0
 64/home/fomedes/projects/pec1/node_modules/es-abstract/2016/Set.js1649198030147821189 0
 91/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/custom-format-infer-ext1649197440307824619 1
+68/home/fomedes/projects/pec1/src/img/posters/poster_captainMarvel.jpg1649722280136766700 0
 73/home/fomedes/projects/pec1/node_modules/string.prototype.trimend/auto.js1649198029507821192 0
 63/home/fomedes/projects/pec1/node_modules/callsites/package.json1649197439797824622 0
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-placeholder.js1649197440277824620 0
@@ -4425,6 +4566,7 @@
 52/home/fomedes/projects/pec1/node_modules/lmdb/mod.ts1649197440487824618 0
 88/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1649197440247824620 0
 76/home/fomedes/projects/pec1/node_modules/has-tostringtag/.github/FUNDING.yml1649198029517821192 0
+79/home/fomedes/projects/pec1/src/img/posters/poster_IronMan2.jpg:Zone.Identifier1649721910376954802 0
 86/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/canvas-blending.js1649197440157824620 0
 61/home/fomedes/projects/pec1/node_modules/@parcel/core/LICENSE1649197440017824621 0
 65/home/fomedes/projects/pec1/node_modules/normalize-path/README.md1649199366867813414 0
@@ -4456,6 +4598,7 @@
 54/home/fomedes/projects/pec1/node_modules/has/README.md1649198029617821192 0
 74/home/fomedes/projects/pec1/node_modules/es-abstract/2021/IteratorClose.js1649198030107821189 0
 55/home/fomedes/projects/pec1/node_modules/object-inspect1649198029957821190 1
+42/home/fomedes/projects/pec1/dist/hulk.html1650041755049187783 0
 64/home/fomedes/projects/pec1/node_modules/object-inspect/index.js1649198029667821191 0
 70/home/fomedes/projects/pec1/node_modules/@parcel/workers/src/Worker.js1649197440067824621 0
 57/home/fomedes/projects/pec1/node_modules/@parcel/core/src1649197440297824619 1
@@ -4548,6 +4691,8 @@
 79/home/fomedes/projects/pec1/node_modules/es-abstract/2015/ArraySpeciesCreate.js1649198030027821189 0
 71/home/fomedes/projects/pec1/node_modules/@parcel/core/lib/loadDotEnv.js1649197440197824620 0
 77/home/fomedes/projects/pec1/node_modules/es-abstract/2020/Number/leftShift.js1649198030117821189 0
+42/home/fomedes/projects/pec1/main/refs/tags1649271701638543572 1
+54/home/fomedes/projects/pec1/main/hooks/pre-push.sample1649271701638543572 0
 83/home/fomedes/projects/pec1/node_modules/es-abstract/2016/RequireObjectCoercible.js1649198030137821189 0
 77/home/fomedes/projects/pec1/node_modules/@swc/helpers/lib/_to_property_key.js1649197440097824621 0
 72/home/fomedes/projects/pec1/node_modules/fast-glob/out/providers/filters1649199367057813413 1
@@ -4563,6 +4708,7 @@
 68/home/fomedes/projects/pec1/node_modules/shell-quote/readme.markdown1649198029967821190 0
 88/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/context/package.json1649197440307824619 0
 66/home/fomedes/projects/pec1/node_modules/has-tostringtag/README.md1649198029507821192 0
+66/home/fomedes/projects/pec1/dist/poster_captainMarvel.0925163e.jpg1650041755209187782 0
 65/home/fomedes/projects/pec1/node_modules/has-tostringtag/index.js1649198029447821193 0
 66/home/fomedes/projects/pec1/node_modules/@parcel/utils/src/glob.js1649197439977824621 0
 92/home/fomedes/projects/pec1/node_modules/postcss-selector-parser/dist/selectors/className.js1649199366857813414 0
@@ -4589,6 +4735,7 @@
 62/home/fomedes/projects/pec1/node_modules/buffer-from/readme.md1649197439827824622 0
 62/home/fomedes/projects/pec1/node_modules/has-symbols/.eslintrc1649198029517821192 0
 58/home/fomedes/projects/pec1/node_modules/csso/package.json1649197440137824620 0
+42/home/fomedes/projects/pec1/dist/thor.html1650041755049187783 0
 70/home/fomedes/projects/pec1/node_modules/css-tree/lib/lexer/generic.js1649197440167824620 0
 53/home/fomedes/projects/pec1/node_modules/resolve/test1649198030047821189 1
 71/home/fomedes/projects/pec1/node_modules/es-abstract/2017/SplitMatch.js1649198030157821189 0
@@ -4645,6 +4792,7 @@
 58/home/fomedes/projects/pec1/node_modules/base-x/LICENSE.md1649197439837824622 0
 71/home/fomedes/projects/pec1/node_modules/terser/node_modules/source-map1649197439947824621 1
 78/home/fomedes/projects/pec1/node_modules/@parcel/transformer-html/package.json1649197439917824622 0
+32/home/fomedes/projects/pec1/main1649272248108540394 1
 45/home/fomedes/projects/pec1/node_modules/once1649198029617821192 1
 84/home/fomedes/projects/pec1/node_modules/terser/node_modules/source-map/package.json1649197439807824622 0
 78/home/fomedes/projects/pec1/node_modules/terser/node_modules/commander/typings1649197439897824622 1
@@ -4663,6 +4811,7 @@
 74/home/fomedes/projects/pec1/node_modules/fast-glob/out/providers/stream.js1649199367037813413 0
 45/home/fomedes/projects/pec1/node_modules/csso1649197440137824620 1
 84/home/fomedes/projects/pec1/node_modules/fast-glob/out/providers/matchers/partial.js1649199366977813413 0
+52/home/fomedes/projects/pec1/src/img/MCU_timeline.jpg1650025767494653100 0
 84/home/fomedes/projects/pec1/node_modules/terser/node_modules/source-map/CHANGELOG.md1649197439817824622 0
 60/home/fomedes/projects/pec1/node_modules/terser/package.json1649197440187824620 0
 74/home/fomedes/projects/pec1/node_modules/string.prototype.trimstart/.nycrc1649198029497821192 0
@@ -4781,6 +4930,7 @@
 78/home/fomedes/projects/pec1/node_modules/@parcel/source-map/dist/types.js.flow1649197439867824622 0
 65/home/fomedes/projects/pec1/node_modules/es-abstract/2020/GetV.js1649198030087821189 0
 78/home/fomedes/projects/pec1/node_modules/@parcel/source-map/dist/utils.js.flow1649197439877824622 0
+82/home/fomedes/projects/pec1/src/img/posters/poster_antMan_Wasp.jpg:Zone.Identifier1649722148586953416 0
 62/home/fomedes/projects/pec1/node_modules/safe-buffer/README.md1649197439847824622 0
 90/home/fomedes/projects/pec1/node_modules/@parcel/source-map/dist/wasm-bindings-web.js.flow1649197439887824622 0
 76/home/fomedes/projects/pec1/node_modules/@parcel/package-manager/src/Yarn.js1649197440117824620 0
@@ -4789,6 +4939,7 @@
 71/home/fomedes/projects/pec1/node_modules/es-abstract/2019/msFromTime.js1649198030127821189 0
 87/home/fomedes/projects/pec1/node_modules/es-abstract/2016/CompletePropertyDescriptor.js1649198030037821189 0
 81/home/fomedes/projects/pec1/node_modules/@parcel/source-map/parcel_sourcemap_wasm1649197440277824620 1
+64/home/fomedes/projects/pec1/main/hooks/prepare-commit-msg.sample1649271701638543572 0
 90/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest6.c1649197440197824620 0
 70/home/fomedes/projects/pec1/node_modules/string.prototype.trimend/test1649198029567821192 1
 92/home/fomedes/projects/pec1/node_modules/@parcel/source-map/parcel_sourcemap_wasm/src/lib.rs1649197440277824620 0
@@ -4962,6 +5113,7 @@
 98/home/fomedes/projects/pec1/node_modules/@parcel/core/test/fixtures/duplicate-targets/package.json1649197440317824619 0
 59/home/fomedes/projects/pec1/node_modules/color-name/LICENSE1649197439827824622 0
 70/home/fomedes/projects/pec1/node_modules/@parcel/watcher/index.js.flow1649197439987824621 0
+44/home/fomedes/projects/pec1/main/description1649271701638543572 0
 59/home/fomedes/projects/pec1/node_modules/acorn-node/walk.js1649199367017813413 0
 66/home/fomedes/projects/pec1/node_modules/@parcel/watcher/prebuilds1649197440147824620 1
 62/home/fomedes/projects/pec1/node_modules/svgo/lib/css-tools.js1649197440057824621 0
@@ -5238,6 +5390,7 @@
 69/home/fomedes/projects/pec1/node_modules/timsort/build/timsort.min.js1649197439897824622 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/LV.js1649197440367824619 0
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2021/MakeDay.js1649198030117821189 0
+38/home/fomedes/projects/pec1/main/hooks1649271701638543572 1
 74/home/fomedes/projects/pec1/node_modules/es-abstract/2021/ToPropertyKey.js1649198030177821189 0
 59/home/fomedes/projects/pec1/node_modules/timsort/LICENSE.md1649197439847824622 0
 54/home/fomedes/projects/pec1/node_modules/lmdb/level.js1649197440267824620 0
@@ -5250,6 +5403,7 @@
 76/home/fomedes/projects/pec1/node_modules/npm-run-all/node_modules/color-name1649198029407821193 1
 76/home/fomedes/projects/pec1/node_modules/is-shared-array-buffer/CHANGELOG.md1649198029537821192 0
 84/home/fomedes/projects/pec1/node_modules/npm-run-all/node_modules/color-name/LICENSE1649198029407821193 0
+83/home/fomedes/projects/pec1/src/img/posters/poster_captainAmerica_winterSoldier.jpg1649722242217605700 0
 84/home/fomedes/projects/pec1/node_modules/npm-run-all/node_modules/color-name/test.js1649198029407821193 0
 87/home/fomedes/projects/pec1/node_modules/npm-run-all/node_modules/color-name/.npmignore1649198029407821193 0
 91/home/fomedes/projects/pec1/node_modules/npm-run-all/node_modules/color-name/.eslintrc.json1649198029407821193 0
@@ -5362,7 +5516,7 @@
 79/home/fomedes/projects/pec1/node_modules/svgo/lib/svgo/css-style-declaration.js1649197440057824621 0
 76/home/fomedes/projects/pec1/node_modules/@parcel/config-default/package.json1649197439867824622 0
 75/home/fomedes/projects/pec1/node_modules/node-addon-api/tools/conversion.js1649197439987824621 0
-51/home/fomedes/projects/pec1/dist/index.4d663569.css1649271443918545071 0
+43/home/fomedes/projects/pec1/dist/about.html1650041755049187783 0
 58/home/fomedes/projects/pec1/node_modules/call-bind/LICENSE1649198029607821192 0
 52/home/fomedes/projects/pec1/node_modules/es-abstract1649198030197821188 1
 80/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/block-logical.js1649199366987813413 0
@@ -5384,6 +5538,7 @@
 72/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/index.d.ts.map1649197439977824621 0
 67/home/fomedes/projects/pec1/node_modules/es-abstract/5/ToBoolean.js1649198030167821189 0
 79/home/fomedes/projects/pec1/node_modules/es-abstract/2015/EnumerableOwnNames.js1649198030067821189 0
+84/home/fomedes/projects/pec1/src/img/posters/poster_thor_darkWorl.jpg:Zone.Identifier1649722492616951415 0
 81/home/fomedes/projects/pec1/node_modules/es-abstract/2015/ToPropertyDescriptor.js1649198030177821189 0
 76/home/fomedes/projects/pec1/node_modules/es-abstract/2015/QuoteJSONString.js1649198030137821189 0
 79/home/fomedes/projects/pec1/node_modules/es-abstract/2015/SpeciesConstructor.js1649198030147821189 0
@@ -5532,6 +5687,7 @@
 80/home/fomedes/projects/pec1/node_modules/es-abstract/2021/IsBigIntElementType.js1649198030097821189 0
 78/home/fomedes/projects/pec1/node_modules/es-abstract/2021/ByteListBitwiseOp.js1649198030027821189 0
 74/home/fomedes/projects/pec1/node_modules/es-abstract/2021/thisTimeValue.js1649198030167821189 0
+60/home/fomedes/projects/pec1/main/hooks/applypatch-msg.sample1649271701638543572 0
 75/home/fomedes/projects/pec1/node_modules/@parcel/core/lib/serializerCore.js1649197440257824620 0
 78/home/fomedes/projects/pec1/node_modules/es-abstract/2021/Number/bitwiseXOR.js1649198030027821189 0
 92/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/css-placeholder-shown.js1649197440277824620 0
@@ -5554,6 +5710,7 @@
 66/home/fomedes/projects/pec1/node_modules/node-addon-api/napi-inl.h1649197439937824622 0
 78/home/fomedes/projects/pec1/node_modules/es-abstract/2021/Number/bitwiseNOT.js1649198030027821189 0
 76/home/fomedes/projects/pec1/node_modules/es-abstract/2021/Number/toString.js1649198030177821189 0
+86/home/fomedes/projects/pec1/src/img/posters/poster_captainAmerica.jpeg:Zone.Identifier1649722237226952900 0
 65/home/fomedes/projects/pec1/node_modules/entities/lib/encode.d.ts1649197440027824621 0
 76/home/fomedes/projects/pec1/node_modules/es-abstract/2021/Number/lessThan.js1649198030117821189 0
 81/home/fomedes/projects/pec1/node_modules/es-abstract/2021/Number/sameValueZero.js1649198030147821189 0
@@ -5708,6 +5865,7 @@
 77/home/fomedes/projects/pec1/node_modules/resolve/test/module_dir/xmodules/aaa1649198030017821189 1
 82/home/fomedes/projects/pec1/node_modules/es-abstract/2021/IsUnsignedElementType.js1649198030107821189 0
 91/home/fomedes/projects/pec1/node_modules/lmdb/prebuilds/darwin-arm64/node.abi102.glibc.node1649197440357824619 0
+66/home/fomedes/projects/pec1/src/img/resume/resume_BlackPanther.png1650041481762792700 0
 85/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/scrollintoview.js1649197440397824619 0
 74/home/fomedes/projects/pec1/node_modules/htmlnano/docs/docs/050-modules.md1649197440167824620 0
 71/home/fomedes/projects/pec1/node_modules/@parcel/core/lib/serializer.js1649197440247824620 0
@@ -5743,6 +5901,7 @@
 74/home/fomedes/projects/pec1/node_modules/es-abstract/2018/IsPropertyKey.js1649198030107821189 0
 67/home/fomedes/projects/pec1/node_modules/node-releases/package.json1649197439867824622 0
 81/home/fomedes/projects/pec1/node_modules/es-abstract/2018/ToPropertyDescriptor.js1649198030177821189 0
+56/home/fomedes/projects/pec1/main/hooks/pre-rebase.sample1649271701638543572 0
 60/home/fomedes/projects/pec1/node_modules/terser/CHANGELOG.md1649197440197824620 0
 70/home/fomedes/projects/pec1/node_modules/@parcel/source-map/index.d.ts1649197440277824620 0
 83/home/fomedes/projects/pec1/node_modules/es-abstract/2021/CreateIterResultObject.js1649198030047821189 0
@@ -5806,6 +5965,7 @@
 75/home/fomedes/projects/pec1/node_modules/type-fest/source/set-optional.d.ts1649197440037824621 0
 72/home/fomedes/projects/pec1/node_modules/es-abstract/2018/HasProperty.js1649198030087821189 0
 80/home/fomedes/projects/pec1/node_modules/es-abstract/2018/IsSharedArrayBuffer.js1649198030107821189 0
+51/home/fomedes/projects/pec1/src/captainAmerica.html1650041738289187881 0
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2018/MakeDay.js1649198030117821189 0
 64/home/fomedes/projects/pec1/node_modules/es-abstract/2018/abs.js1649198029967821190 0
 68/home/fomedes/projects/pec1/node_modules/node-addon-api/package.json1649197440027824621 0
@@ -5843,6 +6003,7 @@
 59/home/fomedes/projects/pec1/node_modules/domhandler/LICENSE1649197439797824622 0
 85/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/viewport-units.js1649197440417824619 0
 72/home/fomedes/projects/pec1/node_modules/es-abstract/2018/DayFromYear.js1649198030057821189 0
+62/home/fomedes/projects/pec1/src/img/posters/poster_ironMan.jpg1649721529504157400 0
 72/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/regions/YE.js1649197440437824619 0
 76/home/fomedes/projects/pec1/node_modules/es-abstract/2018/thisNumberValue.js1649198030157821189 0
 61/home/fomedes/projects/pec1/node_modules/micromatch/README.md1649199366837813414 0
@@ -5954,6 +6115,7 @@
 76/home/fomedes/projects/pec1/node_modules/es-abstract/2016/SetFunctionName.js1649198030147821189 0
 65/home/fomedes/projects/pec1/node_modules/tailwindcss/CHANGELOG.md1649199367147813412 0
 74/home/fomedes/projects/pec1/node_modules/es-abstract/2016/SameValueZero.js1649198030147821189 0
+43/home/fomedes/projects/pec1/main/refs/heads1649271701638543572 1
 61/home/fomedes/projects/pec1/node_modules/object.assign/.nycrc1649198029507821192 0
 88/home/fomedes/projects/pec1/node_modules/es-abstract/2016/CanonicalNumericIndexString.js1649198030037821189 0
 67/home/fomedes/projects/pec1/node_modules/es-abstract/2016/Invoke.js1649198030087821189 0
@@ -5970,6 +6132,7 @@
 70/home/fomedes/projects/pec1/node_modules/es-abstract/2016/IsInteger.js1649198030097821189 0
 66/home/fomedes/projects/pec1/node_modules/@parcel/packager-html/lib1649197439817824622 1
 77/home/fomedes/projects/pec1/node_modules/es-abstract/2016/IsDataDescriptor.js1649198030097821189 0
+66/home/fomedes/projects/pec1/dist/poster_thor_ragnarok.485dfe93.jpg1650041755219187782 0
 78/home/fomedes/projects/pec1/node_modules/csso/lib/replace/AttributeSelector.js1649197439957824621 0
 63/home/fomedes/projects/pec1/node_modules/minimist/test/parse.js1649199366867813414 0
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2016/ToLength.js1649198030177821189 0
@@ -6426,6 +6589,7 @@
 82/home/fomedes/projects/pec1/node_modules/es-abstract/2017/DeletePropertyOrThrow.js1649198030067821189 0
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2017/ToNumber.js1649198030177821189 0
 67/home/fomedes/projects/pec1/node_modules/es-abstract/2017/Invoke.js1649198030087821189 0
+64/home/fomedes/projects/pec1/src/img/posters/poster_guardians.jpg1649722329509889800 0
 72/home/fomedes/projects/pec1/node_modules/es-abstract/2017/HasProperty.js1649198030087821189 0
 75/home/fomedes/projects/pec1/node_modules/es-abstract/2017/HasOwnProperty.js1649198030087821189 0
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2017/MakeDay.js1649198030117821189 0
@@ -6442,6 +6606,7 @@
 73/home/fomedes/projects/pec1/node_modules/es-abstract/2017/IsExtensible.js1649198030097821189 0
 84/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/object-values.js1649197440377824619 0
 91/home/fomedes/projects/pec1/node_modules/es-abstract/2017/IsCompatiblePropertyDescriptor.js1649198030097821189 0
+65/home/fomedes/projects/pec1/dist/poster_blackPanther.3fbfbd15.jpg1650041755129187783 0
 104/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-mdb.txt1649197440487824618 0
 73/home/fomedes/projects/pec1/node_modules/es-abstract/2017/RegExpCreate.js1649198030137821189 0
 68/home/fomedes/projects/pec1/node_modules/es-abstract/2017/IsArray.js1649198030097821189 0
@@ -6609,7 +6774,6 @@
 100/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.11649197440057824621 0
 81/home/fomedes/projects/pec1/node_modules/tailwindcss/src/public/default-config.js1649199367097813413 0
 96/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/lmdb.h1649197440227824620 0
-54/home/fomedes/projects/pec1/dist/index.0641b553.js.map1649271423418545190 0
 69/home/fomedes/projects/pec1/node_modules/es-abstract/2019/ToObject.js1649198030177821189 0
 98/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest2.c1649197440177824620 0
 98/home/fomedes/projects/pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/Doxyfile1649197439957824621 0
@@ -6814,7 +6978,9 @@
 82/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/background-size.js1649199366977813413 0
 81/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/inline-logical.js1649199367077813413 0
 75/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/gradient.js1649199367057813413 0
+67/home/fomedes/projects/pec1/dist/poster_guardians_vol2.07f7f971.jpg1650041755219187782 0
 66/home/fomedes/projects/pec1/node_modules/css-select/lib/compile.js1649197439887824622 0
+57/home/fomedes/projects/pec1/dist/resume_Hulk.9d322391.png1650041755229187782 0
 74/home/fomedes/projects/pec1/node_modules/es-abstract/2018/UnicodeEscape.js1649198030187821188 0
 81/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/grid-row-align.js1649199367067813413 0
 79/home/fomedes/projects/pec1/node_modules/autoprefixer/lib/hacks/writing-mode.js1649199367097813413 0
@@ -7047,6 +7213,7 @@
 67/home/fomedes/projects/pec1/node_modules/svgo/plugins/reusePaths.js1649197440137824620 0
 66/home/fomedes/projects/pec1/node_modules/cosmiconfig/dist/types.js1649197439907824622 0
 87/home/fomedes/projects/pec1/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js1649197440117824620 0
+63/home/fomedes/projects/pec1/dist/poster_blackWidow.d44270d3.jpg1650041755139187783 0
 80/home/fomedes/projects/pec1/node_modules/caniuse-lite/data/features/es6-class.js1649197440327824619 0
 90/home/fomedes/projects/pec1/node_modules/string.prototype.trimstart/test/implementation.js1649198029517821192 0
 70/home/fomedes/projects/pec1/node_modules/unbox-primitive/.eslintignore1649198029487821193 0
