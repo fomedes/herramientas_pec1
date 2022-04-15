@@ -94,7 +94,7 @@ header{
         padding-left: 10px;
     }
 
-    .page-home .characters{
+    .page-home .characters, .page-character .characters{
         grid-template-columns: 1fr 1fr 1fr;
     }
 
@@ -124,6 +124,12 @@ header{
         grid-column: 1/2;
         grid-row: 2;
   }
+    .page-character main .container .resumen{
+        grid-column: 1/2;
+        
+    }
+
+  
   
     /* Página movies dispositivos pequeños*/
     .page-movies main .container{
@@ -215,7 +221,7 @@ header{
         margin: auto;
     }
     
-    .page-home .characters{
+    .page-home .characters, .page-character .characters{
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
 
@@ -258,7 +264,13 @@ header{
     .page-character main .container .resumen{
         grid-column: 3/4;
         grid-row: 2/4;
-  }
+    }
+
+    .page-character main .container .related{
+        grid-column: 1/4;
+        grid-row: 6;
+    }
+
   
     .page-character .cuerpo-character{
         padding: 20px 25px 20px 25px;
@@ -450,7 +462,7 @@ p a.more{
     padding-bottom: 20px;
 }
 
-.page-home .characters{
+.page-home .characters, .page-character .characters{
     display: grid;
     gap: 20px;
 }

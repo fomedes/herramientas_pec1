@@ -84,13 +84,8 @@ function getMovies(character){
     
     
     for(var i = 0; i < movies.length; i++) {
-        // Create the list item:
         var li = document.createElement("li");
-
-        // Set its contents:
         li.appendChild(document.createTextNode(movies[i]));
-
-        // Add it to the list:
         ul.appendChild(li);
     }
 }
