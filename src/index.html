@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -16,23 +16,35 @@
 <body class="page-home">
 	<header>
 		<nav class="container">
-            <a class="link-header" href="index.html" title = "Volver al inicio">
-                <p class="cabecera">Cine Marvel</p>
-            </a>
-    
-			<ul class="menu-links">
-				<li><a href="category.html">Personajes</a></li>
-                <li><a href="movies.html">Películas</a></li>
-				<li><a href="about.html">About Us</a></li>
-				<li><a href="sources.html">Fuentes</a></li>
-			</ul>
+            <div class="head-left">
+                <a class="link-header" href="index.html" title = "Volver al inicio">
+                    <p class="cabecera">Cine Marvel</p>
+                </a>
+                
+                <ul class="menu-links">
+                    <li><a href="category.html">Personajes</a></li>
+                    <li><a href="movies.html">Películas</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="sources.html">Fuentes</a></li>
+                </ul>
+            </div>
+
+            <div class="head-right">
+                <div class="animated-svg">
+                    <div class="rocket">
+                        <img src="img/rocket.svg">
+                    </div>
+                </div>
+            </div>
+
+
 		</nav>
 	</header>
 
 
 	<main>
 		<div class="intro-picture">
-            <img class="img-intro" src="img/MCU_logo.png" alt="">
+            <img class="img-intro img-clip" src="img/MCU_logo.png" alt="">
         </div>
         <div class="container">
             <section class="site-description">
@@ -43,31 +55,36 @@
 
             <h2><a href="category.html">Personajes</a></h2>
             <section class= "characters">
-                    <div class="character">
-                        <img class="img-character" src="img/resume/resume_IronMan.png" alt="">
-                        <p><a class="superhero" href="ironMan.html">Iron Man</a></p> 
-                        <p><a class="more" href="ironMan.html">Leer más</a></p> 
+                <div class="character">
+                    <img class="img-character" src="img/resume/resume_IronMan.png" alt="">
+                    <div class="hero-name">
+                        <p><a href="ironMan.html">Iron Man</a></p> 
                     </div>
-                    <div class="character">
-                        <img class="img-character" src="img/resume/resume_BlackWidow.png" alt="">
-                        <p><a class="superhero" href="blackWidow.html">Black Widow</a></p> 
-                        <p><a class="more" href="blackWidow.html">Leer más</a></p> 
+                </div>
+                <div class="character">
+                    <img class="img-character" src="img/resume/resume_BlackWidow.png" alt="">
+                    <div class="hero-name">
+                        <p><a href="blackWidow.html">Black Widow</a></p> 
                     </div>
-                    <div class="character">
-                        <img class="img-character" src="img/resume/resume_CapitanAmerica.png" alt="">
-                        <p><a class="superhero" href="captainAmerica.html">Capitán América</a></p> 
-                        <p><a class="more" href="captainAmerica.html">Leer más</a></p> 
+                </div>
+                <div class="character">
+                    <img class="img-character" src="img/resume/resume_CapitanAmerica.png" alt="">
+                    <div class="hero-name">
+                        <p><a href="captainAmerica.html">Capitán América</a></p> 
                     </div>
-                    <div class="character">
-                        <img class="img-character" src="img/resume/resume_BlackPanther.png" alt="">
-                        <p><a class="superhero" href="blackPanther.html">Black Panther</a></p> 
-                        <p><a class="more" href="blackPanther.html">Leer más</a></p> 
+                </div>
+                <div class="character">
+                    <img class="img-character" src="img/resume/resume_BlackPanther.png" alt="">
+                    <div class="hero-name">
+                        <p><a href="blackPanther.html">Black Panther</a></p> 
                     </div>
-                    <div class="character">
-                        <img class="img-character" src="img/resume/resume_Thor.png" alt="">
-                        <p><a class="superhero" href="thor.html">Thor</a></p> 
-                        <p><a class="more" href="thor.html">Leer más</a></p> 
+                </div>
+                <div class="character">
+                    <img class="img-character" src="img/resume/resume_Thor.png" alt="">
+                    <div class="hero-name">
+                        <p><a href="thor.html">Thor</a></p> 
                     </div>
+                </div>
             </section>
 
             <h2><a href="movies.html">Últimas películas</a></h2>
@@ -142,8 +159,15 @@
                     <li><a href="">Política de cookies</a></li>
                 </ul>
             </section>
-            <section>
+            <section class="footer-text">
                 <span>Actividad realizada por Francisco Omedes Roig, para la asignatura Herramientas HTML y CSS. Segundo semestre del curso 2021-2022</span>
+            </section>
+            <section class="footer-text">
+                <p>
+                    El texto de este sitio está bajo una <a href="http://creativecommons.org/licenses/by-sa/4.0/">licencia de Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional</a>.
+                    Las imágenes también estan bajo la misma licencia si las originales poseen la misma, visita la página de <a href="sources.html">Fuentes</a>
+                    para saber cuales tienen la misma licencia.
+                </p>
             </section>
 		</div>
 	</footer>

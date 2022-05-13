@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,16 +14,28 @@
 <body id = "IronMan" class="page-character" onload="getMovies(IronMan)">
 	<header>
 		<nav class="container">
-            <a class="link-header" href="index.html" title = "Volver al inicio">
-                <p class="cabecera">Cine Marvel</p>
-            </a>
-    
-			<ul class="menu-links">
-				<li><a href="category.html">Personajes</a></li>
-                <li><a href="movies.html">Películas</a></li>
-				<li><a href="about.html">About Us</a></li>
-				<li><a href="sources.html">Fuentes</a></li>
-			</ul>
+            <div class="head-left">
+                <a class="link-header" href="index.html" title = "Volver al inicio">
+                    <p class="cabecera">Cine Marvel</p>
+                </a>
+                
+                <ul class="menu-links">
+                    <li><a href="category.html">Personajes</a></li>
+                    <li><a href="movies.html">Películas</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="sources.html">Fuentes</a></li>
+                </ul>
+            </div>
+
+            <div class="head-right">
+                <div class="animated-svg">
+                    <div class="rocket">
+                        <img src="img/rocket.svg">
+                    </div>
+                </div>
+            </div>
+
+
 		</nav>
 	</header>
 
@@ -69,7 +81,7 @@
             <section class = "resumen">
                 <div class = "cuerpo-character">
                     <h2>Iron Man</h2>
-                    <img class = "img-resumen" src="img/resume/resume_IronMan.png" alt="">
+                    <img class = "img-resumen img-fade-in" src="img/resume/resume_IronMan.png" alt="">
                     <h3>BIO</h3>
 
                     <ul class="resume-list">
@@ -90,28 +102,33 @@
                     <section class= "characters">
                             <div class="character">
                                 <img class="img-character" src="img/resume/resume_Hulk.png" alt="">
-                                <p><a class="superhero" href="hulk.html">Black Panther</a></p> 
-                                <p><a class="more" href="hulk.html">Leer más</a></p> 
+                                <div class="hero-name">
+                                    <p><a href="hulk.html">Hulk</a></p> 
+                                </div>
                             </div>
                             <div class="character">
                                 <img class="img-character" src="img/resume/resume_BlackWidow.png" alt="">
-                                <p><a class="superhero" href="blackWidow.html">Black Widow</a></p> 
-                                <p><a class="more" href="blackWidow.html">Leer más</a></p> 
-                            </div>
+                                <div class="hero-name">
+                                    <p><a href="blackWidow.html">Black Widow</a></p> 
+                                </div>
+                            </div>                            
                             <div class="character">
                                 <img class="img-character" src="img/resume/resume_CapitanAmerica.png" alt="">
-                                <p><a class="superhero" href="captainAmerica.html">Capitán América</a></p> 
-                                <p><a class="more" href="captainAmerica.html">Leer más</a></p> 
+                                <div class="hero-name">
+                                    <p><a href="captainAmerica.html">Capitán América</a></p> 
+                                </div>
                             </div>
                             <div class="character">
                                 <img class="img-character" src="img/resume/resume_BlackPanther.png" alt="">
-                                <p><a class="superhero" href="blackPanther.html">Black Panther</a></p> 
-                                <p><a class="more" href="blackPanther.html">Leer más</a></p> 
+                                <div class="hero-name">
+                                    <p><a href="blackPanther.html">Black Panther</a></p> 
+                                </div>
                             </div>
                             <div class="character">
                                 <img class="img-character" src="img/resume/resume_Thor.png" alt="">
-                                <p><a class="superhero" href="thor.html">Thor</a></p> 
-                                <p><a class="more" href="thor.html">Leer más</a></p> 
+                                <div class="hero-name">
+                                    <p><a href="thor.html">Thor</a></p> 
+                                </div>
                             </div>
                     </section>
                 </div>  
