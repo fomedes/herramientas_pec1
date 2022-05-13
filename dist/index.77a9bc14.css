@@ -570,18 +570,20 @@ footer .footer-text {
 .hero-name {
   width: 100%;
   text-align: center;
+  text-justify: center;
   position: absolute;
   bottom: 0;
 }
 
 .hero-name p {
   background-color: #6200ff42;
+  border-radius: 10px;
   font-size: 1.2em;
 }
 
 .characters .character {
   color: #fff;
-  border-radius: 5px;
+  border-radius: 10px;
   flex-direction: column;
   transition: all .5s ease-in-out;
   display: flex;
@@ -655,7 +657,7 @@ footer .footer-text {
 
 .animated-svg .rocket img {
   height: 10vh;
-  animation: animate .15s infinite;
+  animation: animate .2s infinite;
 }
 
 @keyframes animate {

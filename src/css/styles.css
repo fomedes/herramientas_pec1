@@ -689,11 +689,13 @@ footer .footer-text{
     bottom: 0;
     width: 100%;
     text-align: center;
+    text-justify: center;
 }
 
 .hero-name p{
     font-size: 1.2em;
     background-color: rgba(98, 0, 255, 0.26);
+    border-radius: 10px;
 }
 
 
@@ -702,7 +704,7 @@ footer .footer-text{
     flex-direction: column;
     position: relative;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3), 0 5px 10px rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
     transition: ease-in-out 0.5s;
 }
@@ -816,7 +818,7 @@ footer .footer-text{
 
 .animated-svg .rocket img{
     height: 10vh;
-    animation: animate 0.15s ease infinite;
+    animation: animate 0.2s ease infinite;
 }
 
 @keyframes animate{
