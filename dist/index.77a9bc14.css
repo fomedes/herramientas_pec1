@@ -500,6 +500,10 @@ fieldset ::placeholder {
   padding: 10px 20px 15px;
 }
 
+.timeline {
+  text-align: center;
+}
+
 .page-about .img-timeline {
   max-width: 100%;
 }

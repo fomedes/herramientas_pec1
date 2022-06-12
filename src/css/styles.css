@@ -621,6 +621,9 @@ fieldset ::placeholder{
 }
 
 /* Formato página about */
+.timeline{
+    text-align: center;
+}
 
 .page-about .img-timeline{
   max-width: 100%;
