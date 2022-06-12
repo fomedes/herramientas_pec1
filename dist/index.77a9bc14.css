@@ -763,4 +763,14 @@ header .container {
   }
 }
 
+.cuerpo-character > h2 {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 0;
+}
+
+.inicial {
+  padding: 0;
+}
+
 /*# sourceMappingURL=index.77a9bc14.css.map */

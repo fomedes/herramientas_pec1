@@ -902,3 +902,16 @@ header .container{
     87.50% { fill: rgb(222, 76, 137); }
     100.00% { fill: red; }
   }
+
+.inicial + .inicial{
+}
+
+.cuerpo-character > h2{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    padding: 0;
+}
+
+.inicial{
+    padding: 0;
+}
