@@ -157,6 +157,8 @@ header{
         left: -5000px;   
     }
 
+/*  Not used in PEC3
+
     .head-left{
         margin-left: 18vw;
     }
@@ -166,7 +168,7 @@ header{
         padding-top: 10vw;
     }
 
-    
+ */   
 
 
 }
@@ -858,6 +860,8 @@ footer .footer-text{
     filter: blur(20px);
 }
 
+/* Not used in PEC3
+
 header .container{
     display: flex;
     align-items: flex-start;
@@ -872,7 +876,7 @@ header .container{
     width: 10vw;
     margin-left: auto;
 }
-
+*/
 
 .footer-picture{
     text-align: center;
@@ -915,3 +919,4 @@ header .container{
 .inicial{
     padding: 0;
 }
+

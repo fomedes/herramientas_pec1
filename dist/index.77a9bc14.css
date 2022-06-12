@@ -128,15 +128,6 @@ header {
     top: 0;
     left: -5000px;
   }
-
-  .head-left {
-    margin-left: 18vw;
-  }
-
-  .head-right {
-    margin-right: 10vw;
-    padding-top: 10vw;
-  }
 }
 
 @media (min-width: 768px) {
@@ -691,21 +682,6 @@ footer .footer-text {
   bottom: -70px;
   left: 37%;
   transform: translateY(-50%);
-}
-
-header .container {
-  align-items: flex-start;
-  display: flex;
-}
-
-.head-left {
-  width: 80vw;
-  justify-content: center;
-}
-
-.head-right {
-  width: 10vw;
-  margin-left: auto;
 }
 
 .footer-picture {
