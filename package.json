@@ -12,10 +12,11 @@
   "devDependencies": {
     "npm-run-all": "^4.1.5",
     "parcel": "latest",
-    "rimraf": "^3.0.2"
+    "postcss": "^8.4.13",
+    "rimraf": "^3.0.2",
+    "sharp": "^0.29.3"
   },
   "dependencies": {
-    "hamburger-menu": "^0.4.0",
-    "tailwindcss": "^3.0.23"
+    "hamburger-menu": "^0.4.0"
   }
 }
