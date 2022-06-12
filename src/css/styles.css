@@ -254,6 +254,7 @@ header{
         grid-template-columns: 1fr 1fr 1fr;
     }
 
+
     .page-character main .container .titulo{
         grid-column: 1/4;
         grid-row: 1;
@@ -907,10 +908,9 @@ header .container{
     100.00% { fill: red; }
   }
 
-.inicial + .inicial{
-}
 
-.cuerpo-character > h2{
+
+.page-category .cuerpo-character > h2{
     border-bottom: 1px solid black;
     border-top: 1px solid black;
     padding: 0;
