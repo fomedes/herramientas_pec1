@@ -872,3 +872,33 @@ header .container{
     width: 10vw;
     margin-left: auto;
 }
+
+
+.footer-picture{
+    text-align: center;
+}
+
+.footer-pic{
+    max-width: 100%;
+    height: 8vh;
+}
+
+.footer-pic path{
+    animation-name: animation;
+    animation-duration: 20s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+  }
+    
+  @keyframes animation {
+    0.00% { fill: red;    }
+    12.50% { fill: orange; }
+    25.00% { fill: yellow; }
+    37.50% { fill: green;  }
+    50.00% { fill: rgb(37, 37, 241);   }
+    62.50% { fill: rgb(110, 21, 173); }
+    75.00% { fill: violet; }
+    87.50% { fill: rgb(222, 76, 137); }
+    100.00% { fill: red; }
+  }
