@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
 
+
+@font-face {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v12/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2) format('woff2');
+    font-display: swap;
+}
+
 :root {
     --text-primary: rgb(0, 0, 0);
     --text-secondary: rgb(255, 255, 255);
@@ -454,12 +463,13 @@ p a:hover{
 }
 
 .page-home .img-intro {
-  max-height: 20vw;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  
+    max-width: 100%;
+    max-height: 20vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
+
 .page-home main .intro-picture {
   height: 20vw;
   background-color: rgba(0, 0, 0, 0.189);
