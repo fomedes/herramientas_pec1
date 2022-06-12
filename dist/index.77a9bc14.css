@@ -1,0 +1,766 @@
+@import "https://fonts.googleapis.com/css2?family=Bangers&display=swap";
+:root {
+  --text-primary: #000;
+  --text-secondary: #fff;
+  --contrast-color: #ed1d24;
+  --main-background: #f4f4f4;
+  --dark-background: #000;
+  --white-background: #fff;
+  --subscribe-background: #f2e8e4;
+}
+
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: Comic Sans, sans-serif;
+}
+
+.cabecera {
+  letter-spacing: 5px;
+  color: #fff;
+  font-family: Bangers, sans-serif;
+  font-size: 12vw;
+  font-weight: 800;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: Bangers, sans-serif;
+  font-size: 8vw;
+}
+
+h2 {
+  text-align: left;
+  letter-spacing: 2px;
+  padding: 10px 0;
+  font-family: Bangers, sans-serif;
+  font-size: 5vw;
+}
+
+header {
+  text-transform: uppercase;
+}
+
+.page-character .cuerpo-character p:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 767px) {
+  .container {
+    max-width: 730px;
+  }
+
+  header, footer {
+    text-align: center;
+  }
+
+  p, .resume-list li, #movieList {
+    font-size: .85rem;
+  }
+
+  main section {
+    padding: 20px;
+    line-height: 1.5;
+  }
+
+  .page-home main .intro-picture .container {
+    height: 100%;
+    align-items: center;
+    display: flex;
+  }
+
+  .page-home main .intro-picture .title {
+    text-align: left;
+    vertical-align: middle;
+    padding-left: 10px;
+    padding-right: 25px;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  .page-home .characters, .page-character .characters, .page-home .movies {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .page-character .cuerpo-character {
+    background-color: var(--white-background);
+    border-radius: 10px;
+    padding: 5px 10px 10px;
+  }
+
+  .page-character main .container {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .page-character main .container .titulo {
+    grid-area: 1 / 1 / auto / 2;
+  }
+
+  .page-character main .container .resumen {
+    grid-area: 2 / 1 / auto / 2;
+  }
+
+  .page-character .resumen .img-resumen {
+    max-height: 40vh;
+    object-fit: cover;
+  }
+
+  .page-movies main .container {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .page-movies main .container .titulo {
+    grid-area: 1 / 1 / auto / 3;
+  }
+
+  .page-character .cuerpo-character {
+    width: 100%;
+  }
+
+  .page-character .resumen h2 {
+    position: absolute;
+    top: 0;
+    left: -5000px;
+  }
+
+  .head-left {
+    margin-left: 18vw;
+  }
+
+  .head-right {
+    margin-right: 10vw;
+    padding-top: 10vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 80%;
+  }
+
+  nav ul {
+    display: inline-flex;
+  }
+
+  nav ul li {
+    padding-right: 20px;
+  }
+
+  footer ul {
+    display: inline-flex;
+  }
+
+  footer ul li {
+    padding-right: 10px;
+  }
+
+  footer ul.legal-links li :before {
+    content: "·";
+    padding-right: 10px;
+    font-weight: 800;
+  }
+
+  footer ul.legal-links li.first-link :before {
+    content: "";
+    padding-right: 0;
+  }
+
+  .container {
+    margin: 0 auto;
+  }
+
+  main section {
+    padding: 20px 10px;
+    line-height: 1.5;
+  }
+
+  .page-home main .intro-picture .container {
+    height: 100%;
+    align-items: center;
+    display: flex;
+  }
+
+  .page-home main .intro-picture .title {
+    text-align: left;
+    font-size: 3rem;
+    font-weight: 400;
+  }
+
+  .page-home .subscribe .centered-form {
+    max-width: 400px;
+    margin: auto;
+  }
+
+  .page-home .characters, .page-character .characters, .page-home .movies {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+
+  .page-character main .container {
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+  }
+
+  .page-character main .container .titulo {
+    grid-area: 1 / 1 / auto / 4;
+  }
+
+  .page-character main .container .descripcion {
+    grid-area: 2 / 1 / auto / 3;
+  }
+
+  .page-character main .container .origen {
+    grid-area: 3 / 1 / auto / 3;
+  }
+
+  .page-character main .container .poderes {
+    grid-area: 4 / 1 / auto / 4;
+  }
+
+  .page-character main .container .peliculas {
+    grid-area: 5 / 1 / auto / 4;
+  }
+
+  .page-character main .container .resumen {
+    grid-area: 2 / 3 / 4 / 4;
+  }
+
+  .page-character main .container .related {
+    grid-area: 6 / 1 / auto / 4;
+  }
+
+  .page-character .cuerpo-character {
+    background-color: var(--white-background);
+    border-radius: 10px;
+    padding: 20px 25px;
+  }
+
+  .page-character .cuerpo-character p {
+    line-height: 2;
+  }
+
+  .page-movies main .container {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .page-movies main .container .titulo {
+    grid-area: 1 / 1 / auto / 4;
+  }
+
+  .page-movies .film-title {
+    font-size: 40px;
+  }
+
+  @media (min-width: 900px) {
+    .cabecera {
+      font-size: 96px;
+    }
+
+    h1 {
+      font-size: 72px;
+    }
+
+    h2 {
+      font-size: 36px;
+    }
+  }
+}
+
+footer {
+  background: var(--dark-background);
+  color: var(--text-secondary);
+  padding: 30px 50px 0;
+}
+
+footer a {
+  color: var(--text-secondary);
+}
+
+footer .legal-links a:hover {
+  color: var(--contrast-color);
+}
+
+footer .social-links a:hover {
+  opacity: .7;
+}
+
+footer section {
+  padding-bottom: 30px;
+}
+
+footer .social-links {
+  display: inline-flex;
+}
+
+ol {
+  padding: 20px;
+  display: list-item;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+a {
+  color: var(--text-primary);
+  background-color: #0000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00000080;
+}
+
+nav {
+  padding-top: 20px;
+}
+
+nav ul {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: 800;
+}
+
+header, .hamburger-menu {
+  background-color: var(--contrast-color) !important;
+}
+
+header .menu-links li a {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+header .menu-links li a:hover {
+  color: #000;
+}
+
+main {
+  background-color: var(--main-background);
+}
+
+main .container {
+  min-height: 70vh;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+main .titulo {
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+
+q {
+  quotes: "«" "»";
+}
+
+p a {
+  color: var(--contrast-color);
+  font-weight: 600;
+}
+
+p a:hover {
+  color: var(--text-primary);
+}
+
+.page-home main .container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.page-home .img-intro {
+  max-height: 20vw;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.page-home main .intro-picture {
+  height: 20vw;
+  background-color: #00000030;
+}
+
+.page-home main .container .site-description {
+  font-size: 1.2rem;
+}
+
+.page-home main .container .site-description p, .page-about main .container .site-description p {
+  padding-bottom: 20px;
+}
+
+.page-home .characters, .page-character .characters, .page-home .movies {
+  gap: 20px;
+  display: grid;
+}
+
+.character > img, .movie > img {
+  max-width: 100%;
+}
+
+.page-home .subscribe {
+  background-color: var(--subscribe-background);
+  padding: 10px 0;
+}
+
+.page-home .subscribe p, .conditions {
+  margin-bottom: 15px;
+  font-size: .6rem;
+}
+
+.page-home .subscribe h2 {
+  line-height: .95;
+}
+
+.page-home .subscribe button {
+  color: var(--text-secondary);
+  background-color: var(--contrast-color);
+  text-transform: uppercase;
+  max-width: 200px;
+  border: none;
+  padding: 15px 20px;
+}
+
+.page-home .subscribe button:hover {
+  background-color: var(--dark-background);
+  color: var(--text-secondary);
+}
+
+.subscribe p a {
+  color: var(--contrast-color);
+}
+
+.subscribe p a:hover {
+  color: var(--dark-background);
+}
+
+.subscribe form {
+  text-align: center;
+}
+
+.subscribe form fieldset {
+  border: none;
+  margin: auto;
+}
+
+.subscribe form fieldset legend, .subscribe form fieldset .hidden-label {
+  display: none;
+}
+
+.subscribe .form-control {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 15px 10px;
+  display: inline-block;
+}
+
+fieldset ::placeholder {
+  font-size: 1rem;
+}
+
+.page-home h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-character h3 {
+  text-align: center;
+  padding: 0;
+}
+
+.page-character .peliculas ul {
+  padding-left: 20px;
+}
+
+.page-character .peliculas ul li {
+  line-height: 2;
+  list-style-type: disc;
+}
+
+.page-category .inicial ul {
+  padding-left: 20px;
+}
+
+.page-category .inicial ul li {
+  line-height: 2;
+  list-style-type: disc;
+}
+
+.img-resumen {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.page-videos iframe {
+  width: 100%;
+  height: 250px;
+  border: 0;
+}
+
+.page-videos .video-fluid {
+  background-color: var(--white-background);
+}
+
+.page-videos .video-fluid figcaption {
+  text-align: center;
+  padding: 10px 20px 15px;
+}
+
+.page-about .img-timeline {
+  max-width: 100%;
+}
+
+.page-sources .source {
+  font-weight: 600;
+}
+
+.page-movies main .container {
+  width: 100vw;
+  grid-gap: 10px;
+  display: grid;
+}
+
+.img-poster {
+  width: 100%;
+}
+
+.page-movies .film {
+  height: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: var(--white-background);
+  border-radius: 10px;
+  flex-direction: column;
+  margin: 0;
+  padding: 0 10px 10px;
+  display: flex;
+}
+
+.page-movies .film-title {
+  padding: 10px 0;
+  font-family: Bangers;
+}
+
+.page-movies .poster {
+  object-fit: scale-down;
+  max-width: 100%;
+  min-height: 0;
+  border-radius: 10px;
+  flex: 1;
+}
+
+.page-character main .bio {
+  font-weight: 600;
+}
+
+footer .footer-text {
+  font-size: .85rem;
+}
+
+.img-character {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.hero-name {
+  width: 100%;
+  text-align: center;
+  text-justify: center;
+  position: absolute;
+  bottom: 0;
+}
+
+.hero-name p {
+  background-color: #6200ff42;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+
+.characters .character {
+  color: #fff;
+  border-radius: 10px;
+  flex-direction: column;
+  transition: all .5s ease-in-out;
+  display: flex;
+  position: relative;
+  box-shadow: 0 5px 10px #0000004d, 0 5px 10px #0003;
+}
+
+.characters .character:hover {
+  transition: all .5s ease-in-out;
+  transform: scale(1.2);
+  box-shadow: 0 15px 30px #0000004d, 0 12px 8px #0003;
+}
+
+.characters .character:before {
+  width: 100%;
+  height: 100%;
+  opacity: .2;
+  z-index: 1;
+  border-radius: 6px;
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.img-fade-in {
+  -ms-animation: fadeIn ease 4s;
+  animation: fadeIn 4s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.page-category .characters {
+  grid-auto-rows: 150px;
+  grid-auto-columns: 150px;
+  grid-auto-flow: column;
+  gap: 20px;
+  padding: 0;
+  display: grid;
+}
+
+.page-category .img-character {
+  object-fit: cover;
+}
+
+.img-clip {
+  clip-path: polygon(0 0, 25% 0, 50% 15%, 75% 0, 100% 0, 100% 25%, 85% 50%, 100% 75%, 100% 100%, 75% 100%, 50% 85%, 25% 100%, 0 100%, 0 75%, 15% 50%, 0 25%);
+}
+
+.animated-svg {
+  width: 100%;
+  height: 15vh;
+  justify-content: center;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.animated-svg .rocket {
+  position: relative;
+}
+
+.animated-svg .rocket img {
+  height: 10vh;
+  animation: animate .2s infinite;
+}
+
+@keyframes animate {
+  0%, 100% {
+    transform: translateY(-2px);
+  }
+
+  50% {
+    transform: translateY(2px);
+  }
+}
+
+.animated-svg .rocket:before {
+  content: "";
+  width: 15px;
+  height: 10vh;
+  background: linear-gradient(#fddd0d, #0000);
+  position: absolute;
+  bottom: -70px;
+  left: 37%;
+  transform: translateY(-50%);
+}
+
+.animated-svg .rocket:after {
+  content: "";
+  width: 15px;
+  height: 10vh;
+  filter: blur(20px);
+  background: linear-gradient(#fddd0d, #0000);
+  position: absolute;
+  bottom: -70px;
+  left: 37%;
+  transform: translateY(-50%);
+}
+
+header .container {
+  align-items: flex-start;
+  display: flex;
+}
+
+.head-left {
+  width: 80vw;
+  justify-content: center;
+}
+
+.head-right {
+  width: 10vw;
+  margin-left: auto;
+}
+
+.footer-picture {
+  text-align: center;
+}
+
+.footer-pic {
+  max-width: 100%;
+  height: 8vh;
+}
+
+.footer-pic path {
+  animation-name: animation;
+  animation-duration: 20s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+}
+
+@keyframes animation {
+  0% {
+    fill: red;
+  }
+
+  12.5% {
+    fill: orange;
+  }
+
+  25% {
+    fill: #ff0;
+  }
+
+  37.5% {
+    fill: green;
+  }
+
+  50% {
+    fill: #2525f1;
+  }
+
+  62.5% {
+    fill: #6e15ad;
+  }
+
+  75% {
+    fill: violet;
+  }
+
+  87.5% {
+    fill: #de4c89;
+  }
+
+  100% {
+    fill: red;
+  }
+}
+
+/*# sourceMappingURL=index.77a9bc14.css.map */
